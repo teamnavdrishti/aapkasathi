@@ -1,0 +1,33 @@
+{
+  "id": "MP-EDU-SCHOOL-STATE-SC",
+  "category": "Education Scheme",
+  "title": "State SC Scholarship Classes 1-5 (Girls) and 6-8",
+  "department": "School Education Department",
+  "eligibility": [
+    "SC girls in Classes 1-5 and SC students in Classes 6-8",
+    "No income limit stated",
+    "Permanent caste certificate is required",
+    "Income certificate is not required",
+    "MP domicile is required"
+  ],
+  "benefits": [
+    "Official record lists scholarship amounts by class/category; payment is directly to the student's bank account."
+  ],
+  "documents_required": [
+    "Verified copy of permanent caste certificate",
+    "MP domicile/self-declaration documents as specified in the official record"
+  ],
+  "application_process": [
+    "Eligible student profile is entered by the school on the Shiksha Portal."
+  ],
+  "important_sections_or_clauses": [
+    "Renewal requirements differ by class group as specified in the official record."
+  ],
+  "official_links": [
+    "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=409"
+  ],
+  "helplines": [],
+  "source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=409",
+  "source_type": "Official Government of Madhya Pradesh CM Helpline Scheme Dashboard",
+  "last_verified_date": "2026-09-14"
+}

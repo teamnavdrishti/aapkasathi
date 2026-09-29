@@ -1,0 +1,19 @@
+{
+    "name": "Fire & Rescue Emergency Service (101)",
+    "name_hindi": "अग्निशमन एवं बचाव सेवा (101)",
+    "category": "Fire & Disaster Rescue",
+    "helpline_number": "101",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "Urban Development and Housing Department / Municipal Corporations, MP",
+    "beneficiary": "General public experiencing fire breakout or building collapse",
+    "benefits": "Rapid dispatch of firefighting vehicles and rescue personnel.",
+    "eligibility": ["Any fire emergency or building collapse situation in MP"],
+    "required_documents": ["None"],
+    "application_process": "Dial 101 directly to report fire incident location.",
+    "application_mode": "Phone Call",
+    "application_fee": "0",
+    "official_source": "https://mpurban.gov.in",
+    "last_verified": "2026-09-13"
+}

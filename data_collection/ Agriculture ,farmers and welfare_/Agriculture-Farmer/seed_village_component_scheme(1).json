@@ -1,0 +1,23 @@
+{
+  "scheme_id": "MP-AGR-005",
+  "scheme_name": "सब मिशन ऑन सीड एंड प्लांटिंग मटेरियल अंतर्गत बीजग्राम घटक",
+  "scheme_name_english": "Sub Mission on Seed and Planting Material - Seed Village Component",
+  "category": "Agriculture / Seeds",
+  "state": "Madhya Pradesh",
+  "department": "Kisan Kalyan and Agriculture Development Department, Government of Madhya Pradesh",
+  "beneficiary": "Farmers",
+  "benefits": "Eligible farmers can receive quality seeds with subsidy. The official scheme page states up to 50% subsidy for food-grain crops and up to 60% for pulse and oilseed crops.",
+  "eligibility": "Farmers of eligible categories holding up to 1 acre are eligible for the specified subsidy and training.",
+  "required_documents": [
+    "B-1 land record copy or land-related document",
+    "Aadhaar card",
+    "Mobile number",
+    "Bank account details"
+  ],
+  "application_process": "Contact the concerned development block. Beneficiaries are selected on a first-come, first-served basis according to the agricultural season.",
+  "application_mode": "Online / Development Block",
+  "official_application_link": "https://www.erp.mpkrishi.org",
+  "official_source": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=856&pointvalue=1&status=BySchemeFor",
+  "source_type": "MP Government CM Helpline Scheme Dashboard",
+  "last_verified": "2026-09-13"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Child Protection Emergency Helpline (1098)",
+    "name_hindi": "चाइल्डलाइन आपातकालीन सेवा (1098)",
+    "category": "Child Protection & Safety",
+    "helpline_number": "1098",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "Women and Child Development Department, MP",
+    "beneficiary": "Children experiencing abandonment, trafficking, labor, or physical abuse",
+    "benefits": "Emergency rescue teams, safe shelter, healthcare, and CWC referral.",
+    "eligibility": ["Children under 18 years of age or individuals calling on behalf of endangered minors"],
+    "required_documents": ["None"],
+    "application_process": "Dial toll-free 1098 directly.",
+    "application_mode": "Phone Call",
+    "application_fee": "Free",
+    "official_source": "https://wcd.nic.in",
+    "last_verified": "2026-09-13"
+}

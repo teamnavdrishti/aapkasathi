@@ -1,0 +1,19 @@
+{
+    "name": "National Highway Helpline (1033)",
+    "name_hindi": "राष्ट्रीय राजमार्ग हेल्पलाइन (1033)",
+    "category": "Highway Safety & Rescue",
+    "helpline_number": "1033",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "National",
+    "department": "Ministry of Road Transport and Highways / NHAI",
+    "beneficiary": "Commuters and drivers on National Highways in MP",
+    "benefits": "Ambulance dispatch, route clearance crane support, and highway patrol intervention.",
+    "eligibility": ["Any vehicle breakdown or road accident on National Highway routes"],
+    "required_documents": ["None"],
+    "application_process": "Dial 1033 and report nearest milestone or highway kilometer marker.",
+    "application_mode": ["Phone Call", "Mobile App"],
+    "application_fee": "Free",
+    "official_source": "https://nhai.gov.in",
+    "last_verified": "2026-09-13"
+}

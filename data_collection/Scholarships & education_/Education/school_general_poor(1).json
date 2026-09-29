@@ -1,0 +1,31 @@
+{
+  "id": "MP-EDU-SCHOOL-GENERAL-POOR",
+  "category": "Education Scheme",
+  "title": "General Economically Poor Scholarship Classes 6-8",
+  "department": "School Education Department",
+  "eligibility": [
+    "Students in Classes 6-8 in government schools",
+    "Parent/guardian annual income up to INR 1 lakh",
+    "Previous class must have been passed",
+    "BPL families may submit a BPL card copy"
+  ],
+  "benefits": [
+    "Annual scholarship: INR 200 for boys and INR 300 for girls"
+  ],
+  "documents_required": [
+    "Self-signed/self-certified income declaration from parent/guardian, or BPL card copy for BPL families"
+  ],
+  "application_process": [
+    "Student profile is entered by the school teacher on the Shiksha Portal based on submitted records."
+  ],
+  "important_sections_or_clauses": [
+    "No application fee; payment is directly to the student's bank account."
+  ],
+  "official_links": [
+    "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=419"
+  ],
+  "helplines": [],
+  "source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=419",
+  "source_type": "Official Government of Madhya Pradesh CM Helpline Scheme Dashboard",
+  "last_verified_date": "2026-09-14"
+}

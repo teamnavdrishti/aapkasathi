@@ -1,0 +1,33 @@
+{
+  "id": "DEPT-MP-SOCIAL-JUSTICE",
+  "category": "State Department",
+  "title": "Department of Social Justice and Disabled Welfare, MP",
+  "department": "Social Justice & Disabled Welfare Department",
+  "eligibility": [
+    "Senior citizens, Persons with Disabilities (Divyangjan), and destitute residents"
+  ],
+  "benefits": [
+    "Disability pensions, assistive device distribution, and social security pensions"
+  ],
+  "documents_required": [
+    "UDID Card",
+    "Income Certificate",
+    "Disability Certificate"
+  ],
+  "application_process": [
+    "Apply via Sparsh Portal or Social Security Portal (socialsecurity.mp.gov.in)"
+  ],
+  "important_sections_or_clauses": [
+    "Rights of Persons with Disabilities Act, 2016"
+  ],
+  "official_links": [
+    "https://socialjustice.mp.gov.in",
+    "https://socialsecurity.mp.gov.in"
+  ],
+  "helplines": [
+    "181",
+    "14567 (Elderline)"
+  ],
+  "source_url": "https://socialjustice.mp.gov.in",
+  "last_verified_date": "2026-09-13"
+}

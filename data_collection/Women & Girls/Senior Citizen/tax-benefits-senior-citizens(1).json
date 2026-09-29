@@ -1,0 +1,21 @@
+{
+  "name": "Income-tax Benefits for Senior Citizens",
+  "category": "Senior Citizens",
+  "department": "Income Tax Department, Ministry of Finance",
+  "target_group": [
+    "Taxpayers meeting the statutory definition of senior citizen/super senior citizen"
+  ],
+  "eligibility": [
+    "Eligibility and deductions/exemptions depend on the current Income-tax Act and applicable year."
+  ],
+  "benefits": "Tax treatment/deductions available under the current income-tax law for eligible senior citizens.",
+  "documents": [
+    "PAN",
+    "Income/expense/investment records",
+    "Tax documents"
+  ],
+  "application_process": "Claim eligible benefits while filing the income-tax return or through the applicable tax process.",
+  "official_link": "https://www.incometax.gov.in/",
+  "source": "Income Tax Department / Government of India",
+  "last_verified_date": "2026-09-13"
+}

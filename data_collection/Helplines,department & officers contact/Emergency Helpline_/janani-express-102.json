@@ -1,0 +1,19 @@
+{
+    "name": "Janani Express Maternal Ambulance (102)",
+    "name_hindi": "जननी एक्सप्रेस मातृत्व एम्बुलेंस सेवा (102)",
+    "category": "Maternal & Child Health",
+    "helpline_number": "102",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "National Health Mission / Public Health Department, MP",
+    "beneficiary": "Pregnant women and sick infants up to 1 year of age",
+    "benefits": "Free pickup and drop transport to government healthcare delivery centers.",
+    "eligibility": ["Pregnant mothers and sick newborns requiring institutional healthcare transport"],
+    "required_documents": ["Mata Yashoda / MCP Card (if available)"],
+    "application_process": "Dial 102 to request delivery transport.",
+    "application_mode": "Phone Call",
+    "application_fee": "0",
+    "official_source": "https://nhmmp.gov.in",
+    "last_verified": "2026-09-13"
+}

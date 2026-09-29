@@ -1,0 +1,43 @@
+{
+  "scheme_id": "MP-AGR-003",
+  "scheme_name": "प्रधानमंत्री फसल बीमा योजना",
+  "scheme_name_english": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "category": "Agriculture / Crop Insurance",
+  "state": "Madhya Pradesh",
+  "department": "Kisan Kalyan and Agriculture Development Department, Government of Madhya Pradesh",
+  "beneficiary": "Eligible farmers growing notified crops",
+  "benefits": "Provides financial protection to eligible farmers against crop loss or damage caused by covered unforeseen events.",
+  "eligibility": "Farmers growing notified crops in notified areas and meeting the current PMFBY rules are eligible.",
+  "required_documents": [
+    "Aadhaar card",
+    "Bank account details",
+    "Land or cultivation records",
+    "Other documents as required for the notified season"
+  ],
+  "application_process": "Farmers can apply through the officially notified PMFBY application process for the relevant crop season and notified area.",
+  "application_mode": "Online / As per officially notified process",
+  "official_source": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=942&pointvalue=1&status=BySchemeFor",
+  "source_type": "MP Government CM Helpline Scheme Dashboard",
+  "last_verified": "2026-09-13"
+}{
+  "scheme_id": "MP-AGR-003",
+  "scheme_name": "प्रधानमंत्री फसल बीमा योजना",
+  "scheme_name_english": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "category": "Agriculture / Crop Insurance",
+  "state": "Madhya Pradesh",
+  "department": "Kisan Kalyan and Agriculture Development Department, Government of Madhya Pradesh",
+  "beneficiary": "Eligible farmers growing notified crops",
+  "benefits": "Provides financial protection to eligible farmers against crop loss or damage caused by covered unforeseen events.",
+  "eligibility": "Farmers growing notified crops in notified areas and meeting the current PMFBY rules are eligible.",
+  "required_documents": [
+    "Aadhaar card",
+    "Bank account details",
+    "Land or cultivation records",
+    "Other documents as required for the notified season"
+  ],
+  "application_process": "Farmers can apply through the officially notified PMFBY application process for the relevant crop season and notified area.",
+  "application_mode": "Online / As per officially notified process",
+  "official_source": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=942&pointvalue=1&status=BySchemeFor",
+  "source_type": "MP Government CM Helpline Scheme Dashboard",
+  "last_verified": "2026-09-13"
+}

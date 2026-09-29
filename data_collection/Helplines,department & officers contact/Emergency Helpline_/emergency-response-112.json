@@ -1,0 +1,19 @@
+{
+    "name": "Integrated Emergency Response Support System (ERSS - Dial 112)",
+    "name_hindi": "एकीकृत आपातकालीन प्रतिक्रिया सहायता प्रणाली (डायल 112)",
+    "category": "Emergency Services",
+    "helpline_number": "112",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "Home Department / Madhya Pradesh Police",
+    "beneficiary": "All persons requiring police, medical, or fire emergency response",
+    "benefits": "Single-number dispatch of GPS-monitored First Response Vehicles (FRVs) directly to caller location.",
+    "eligibility": ["Any person facing an emergency within Madhya Pradesh"],
+    "required_documents": ["None"],
+    "application_process": "Dial 112 or trigger SOS via 112 India mobile app.",
+    "application_mode": "Phone Call / Mobile App",
+    "application_fee": "Free",
+    "official_source": "https://112.gov.in",
+    "last_verified": "2026-09-13"
+  }

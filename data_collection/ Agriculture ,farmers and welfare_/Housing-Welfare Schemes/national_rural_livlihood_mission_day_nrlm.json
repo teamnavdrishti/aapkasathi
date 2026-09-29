@@ -1,0 +1,23 @@
+{
+  "scheme_id": "MP-GOV-010",
+  "scheme_name": "राष्ट्रीय ग्रामीण आजीविका मिशन",
+  "scheme_name_english": "Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM)",
+  "category": "Rural Livelihoods / Employment / Self Help Groups",
+  "state": "Madhya Pradesh",
+  "department": "Ministry of Rural Development, Government of India",
+  "beneficiary": "Rural poor households, especially women organised into Self Help Groups and their federations",
+  "benefits": [
+    "Formation and strengthening of Self Help Groups",
+    "Financial inclusion and access to credit",
+    "Livelihood promotion and support for rural enterprises",
+    "Skill development and capacity building",
+    "Support for sustainable rural livelihoods"
+  ],
+  "eligibility": "Rural poor households and eligible community members are organised through state and local implementation structures, with priority to women-led Self Help Groups.",
+  "required_documents": "Documents vary by SHG formation, bank linkage, livelihood activity and local implementation process.",
+  "application_process": "Contact the State Rural Livelihoods Mission, district/block rural livelihood mission office or participating Self Help Group/community institution.",
+  "application_mode": "SHG / Block / District Rural Livelihood Mission",
+  "official_source": "https://www.rural.gov.in/",
+  "source_type": "Ministry of Rural Development, Government of India",
+  "last_verified": "2026-09-14"
+}

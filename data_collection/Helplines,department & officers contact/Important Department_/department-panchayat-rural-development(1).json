@@ -1,0 +1,33 @@
+{
+  "department_name": "Panchayat and Rural Development Department",
+  "department_name_hindi": "पंचायत एवं ग्रामीण विकास विभाग",
+  "category": "Rural Infrastructure & Local Self-Governance",
+  "state": "Madhya Pradesh",
+  "headquarters": "Mantralaya, Vallabh Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://prd.mp.gov.in",
+  "description": "The principal department dedicated to rural transformation, Panchayati Raj institution empowerment, employment generation, and rural housing across all districts of Madhya Pradesh.",
+  "sub_divisions": [
+    "Directorate of Panchayati Raj",
+    "MP Rural Road Development Authority (MPRRDA)",
+    "MP State Rural Livelihoods Mission (MPSRLM)",
+    "Mahatma Gandhi NREGA Council"
+  ],
+  "primary_functions": [
+    "Strengthening Gram Panchayats, Janpad Panchayats, and Zila Panchayats",
+    "Execution of employment guarantee schemes under MGNREGA",
+    "Construction and maintenance of rural roads under PMGSY and CM Gram Sadak Yojana",
+    "Implementation of Pradhan Mantri Awas Yojana (Gramin) and rural sanitation drives"
+  ],
+  "key_services_offered": [
+    "Issuance of NREGA Job Cards and employment allocation in rural areas",
+    "PMAY-G housing allotment and installment status tracking",
+    "Self-Help Group (SHG) formation, credit linkage, and livelihood support",
+    "Gram Sabha resolution records and rural infrastructure grievance handling"
+  ],
+  "associated_helplines": [
+    "18002333800 (MGNREGA Toll-Free Helpline)",
+    "181 (Panchayat & Rural Affairs Support)"
+  ],
+  "official_source": "https://prd.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

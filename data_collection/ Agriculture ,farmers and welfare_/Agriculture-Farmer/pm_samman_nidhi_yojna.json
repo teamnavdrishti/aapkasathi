@@ -1,0 +1,20 @@
+{
+  "scheme_id": "MP-AGR-002",
+  "scheme_name": "प्रधानमंत्री किसान सम्मान निधि",
+  "scheme_name_english": "PM-KISAN Samman Nidhi",
+  "category": "Agriculture / Farmer Income Support",
+  "state": "Madhya Pradesh",
+  "department": "Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India; implemented for eligible farmers in MP",
+  "scheme_type": "Central Sector",
+  "beneficiary": "Landholding farmer families meeting the scheme rules",
+  "benefit": "₹6,000 per year in three equal instalments, transferred directly to eligible beneficiaries' bank accounts.",
+  "eligibility": "Eligible landholding farmer families as per PM-KISAN guidelines. Exclusion categories include institutional landholders, certain constitutional/public office holders, specified government employees/pensioners, income-tax payers and practicing registered professionals, subject to the official rules.",
+  "required_documents": "Aadhaar and relevant farmer/bank/land details as required during registration and verification.",
+  "application_process": "New Farmer Registration is available on the official PM-KISAN portal; eKYC is mandatory for registered farmers.",
+  "application_fee": "Not specified as a fee on the official portal.",
+  "official_source": "https://pmkisan.gov.in/",
+  "mp_scheme_source": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=969",
+  "source_type": "Government of India PM-KISAN portal + MP Government CM Helpline Scheme Dashboard",
+  "last_verified": "2026-09-13",
+  "verification_note": "Official PM-KISAN portal and MP Government scheme dashboard were checked."
+}

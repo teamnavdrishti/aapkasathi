@@ -1,0 +1,35 @@
+{
+  "id": "HELP-MP-181",
+  "category": "Citizen Grievance & Governance",
+  "title": "MP CM Helpline 181",
+  "helpline_number": "181",
+  "department": "Public Service Management Department, MP",
+  "eligibility": [
+    "All residents of Madhya Pradesh"
+  ],
+  "benefits": [
+    "Lodge complaints regarding non-performance or delay in state government services",
+    "Automatic multi-tier escalation to Senior Officers if unresolved"
+  ],
+  "documents_required": [
+    "Mobile Number",
+    "Samagra ID (optional)",
+    "Application Reference Number (if existing)"
+  ],
+  "application_process": [
+    "Step 1: Dial 181 from any mobile or landline",
+    "Step 2: Describe the issue to the operator or follow IVR instructions",
+    "Step 3: Receive SMS ticket ID for tracking online via cmhelpline.mp.gov.in"
+  ],
+  "important_sections_or_clauses": [
+    "Madhya Pradesh Lok Sewaon Ke Pradan Ki Guarantee Adhiniyam, 2010"
+  ],
+  "official_links": [
+    "https://cmhelpline.mp.gov.in"
+  ],
+  "helplines": [
+    "181"
+  ],
+  "source_url": "https://cmhelpline.mp.gov.in",
+  "last_verified_date": "2026-09-14"
+}

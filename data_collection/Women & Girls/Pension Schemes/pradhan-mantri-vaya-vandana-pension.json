@@ -1,0 +1,21 @@
+{
+  "name": "Pradhan Mantri Vaya Vandana Yojana",
+  "category": "Pension",
+  "department": "LIC of India / Government of India",
+  "target_group": [
+    "Eligible senior citizens during the notified subscription period and under applicable scheme terms"
+  ],
+  "eligibility": [
+    "Eligibility and availability are subject to the notified scheme/LIC rules."
+  ],
+  "benefits": "Pension/annuity benefits for senior citizens under the notified PMVVY terms.",
+  "documents": [
+    "Age proof",
+    "KYC/identity",
+    "Bank account details"
+  ],
+  "application_process": "Apply through LIC's official channels when the scheme is available for subscription.",
+  "official_link": "https://licindia.in/",
+  "source": "LIC of India / Government of India",
+  "last_verified_date": "2026-09-13"
+}

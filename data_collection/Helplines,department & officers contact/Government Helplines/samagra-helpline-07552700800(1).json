@@ -1,0 +1,23 @@
+{
+  "name": "Samagra Portal Support Helpline",
+  "name_hindi": "समग्र पोर्टल सहायता हेल्पलाइन",
+  "category": "Citizen Identity & Welfare Portal",
+  "helpline_number": "0755-2700800",
+  "toll_free": false,
+  "availability": "10:00 AM to 6:00 PM (Working Days)",
+  "state": "Madhya Pradesh",
+  "department": "Social Justice and Disabled Welfare Department, Government of Madhya Pradesh",
+  "beneficiary": "All residents of MP needing Samagra ID creation, modification, or scheme mapping",
+  "benefits": "Direct support for updating Samagra family ID, e-KYC status, and linked welfare benefits.",
+  "eligibility": [
+    "Any resident or family registered on the Samagra Portal"
+  ],
+  "required_documents": [
+    "Samagra Member ID / Family ID",
+    "Aadhaar Card"
+  ],
+  "application_process": "Call 0755-2700800 or contact your local ward/gram panchayat office for ID issues.",
+  "application_mode": "Phone Call / Online Portal",
+  "official_source": "https://samagra.gov.in",
+  "last_verified": "2026-09-14"
+}

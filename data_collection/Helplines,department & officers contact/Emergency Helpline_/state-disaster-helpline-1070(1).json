@@ -1,0 +1,19 @@
+{
+    "name": "State Disaster Management Control Room (1070)",
+    "name_hindi": "राज्य आपदा प्रबंधन नियंत्रण कक्ष (1070)",
+    "category": "Disaster Relief",
+    "helpline_number": "1070",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "Home Department / MP State Disaster Management Authority (SDMA)",
+    "beneficiary": "Populations affected by floods, earthquakes, industrial accidents, and severe weather",
+    "benefits": "Disaster response coordination, evacuation assistance, and relief tracking.",
+    "eligibility": ["Residents affected by natural or man-made disasters in MP"],
+    "required_documents": ["None"],
+    "application_process": "Dial 1070 from landline or mobile to reach state emergency control.",
+    "application_mode": "Phone Call",
+    "application_fee": "0",
+    "official_source": "https://home.mp.gov.in",
+    "last_verified": "2026-09-13"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HELP-MP-1930",
+  "category": "Cyber Crime Helpline",
+  "title": "National Cyber Crime Helpline MP (1930)",
+  "department": "State Cyber Police MP / Ministry of Home Affairs",
+  "eligibility": [
+    "Any victim of online financial fraud or cyber crime in MP"
+  ],
+  "benefits": [
+    "Instant freezing of fraudulently transferred funds in bank accounts if reported within golden hour"
+  ],
+  "documents_required": [
+    "Transaction ID",
+    "Bank Account Details",
+    "Upi Reference Number"
+  ],
+  "application_process": [
+    "Dial 1930 immediately or file report on cybercrime.gov.in"
+  ],
+  "important_sections_or_clauses": [
+    "Information Technology Act, 2000 (Section 66C, 66D)"
+  ],
+  "official_links": [
+    "https://cybercrime.gov.in",
+    "https://mppolice.gov.in"
+  ],
+  "helplines": [
+    "1930"
+  ],
+  "source_url": "https://cybercrime.gov.in",
+  "last_verified_date": "2026-09-13"
+}

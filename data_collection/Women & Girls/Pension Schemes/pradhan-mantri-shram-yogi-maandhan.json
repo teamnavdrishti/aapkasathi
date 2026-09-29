@@ -1,0 +1,25 @@
+{
+  "name": "Pradhan Mantri Shram Yogi Maandhan",
+  "category": "Pension",
+  "department": "Ministry of Labour and Employment",
+  "target_group": [
+    "Eligible unorganised workers aged 18–40 with monthly income below ₹15,000, subject to conditions"
+  ],
+  "eligibility": [
+    "Indian citizen",
+    "Age 18–40",
+    "Monthly income below ₹15,000",
+    "Not covered by EPFO/ESIC/NPS (government-funded) under current eligibility"
+  ],
+  "benefits": "Assured pension of ₹3,000/month after attaining age 60, subject to scheme conditions; Government provides matching contribution.",
+  "documents": [
+    "Aadhaar",
+    "Savings/Jan-Dhan bank account details",
+    "Mobile number",
+    "Other enrolment details"
+  ],
+  "application_process": "Enrol through CSCs or the official PM-SYM enrolment mechanism.",
+  "official_link": "https://labour.gov.in/pm-sym",
+  "source": "Ministry of Labour and Employment / Government of India",
+  "last_verified_date": "2026-09-13"
+}

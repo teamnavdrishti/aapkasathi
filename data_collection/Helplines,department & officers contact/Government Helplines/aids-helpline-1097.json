@@ -1,0 +1,22 @@
+{
+  "name": "National AIDS & Health Guidance Helpline 1097",
+  "name_hindi": "राष्ट्रीय एड्स एवं स्वास्थ्य मार्गदर्शन हेल्पलाइन 1097",
+  "category": "Public Health Advisory",
+  "helpline_number": "1097",
+  "toll_free": true,
+  "availability": "24x7",
+  "state": "Madhya Pradesh",
+  "department": "MP State AIDS Control Society (MPSACS), Government of Madhya Pradesh",
+  "beneficiary": "General public and patients seeking health advice on HIV/AIDS and STI prevention",
+  "benefits": "Anonymous counseling, guidance on free testing centers, treatment locations, and awareness.",
+  "eligibility": [
+    "Anyone seeking health guidance or information on HIV/AIDS"
+  ],
+  "required_documents": [
+    "None required"
+  ],
+  "application_process": "Dial 1097 to speak confidentially with health counselors.",
+  "application_mode": "Phone Call",
+  "official_source": "https://mpsacs.mp.gov.in",
+  "last_verified": "2026-09-14"
+}

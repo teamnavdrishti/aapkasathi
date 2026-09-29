@@ -1,0 +1,21 @@
+{
+  "name": "Sukanya Samriddhi Yojana",
+  "category": "Girl Child",
+  "department": "Ministry of Finance",
+  "target_group": [
+    "Girl child below the prescribed age at account opening"
+  ],
+  "eligibility": [
+    "Account can be opened for an eligible girl child under the Sukanya Samriddhi Account Rules."
+  ],
+  "benefits": "Government-backed small-savings account designed for the financial future of a girl child.",
+  "documents": [
+    "Birth certificate of girl child",
+    "Guardian identity/address proof",
+    "Photograph and account-opening documents as required"
+  ],
+  "application_process": "Open the account through an authorised bank or post office under the official Sukanya Samriddhi process.",
+  "official_link": "https://www.indiapost.gov.in/Financial/DOP_PDFFiles/SukanyaSamriddhiAccount.pdf",
+  "source": "Department of Economic Affairs / Government of India",
+  "last_verified_date": "2026-09-13"
+}

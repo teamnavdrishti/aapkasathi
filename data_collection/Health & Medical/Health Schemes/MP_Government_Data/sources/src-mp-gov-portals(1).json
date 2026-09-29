@@ -1,0 +1,33 @@
+{
+  "id": "SRC-MP-GOV-PORTALS",
+  "category": "Data Verification Source",
+  "title": "Official State Government Portals Registry",
+  "department": "Department of Information Technology, MP",
+  "eligibility": [
+    "Public Domain Metadata"
+  ],
+  "benefits": [
+    "Verified source metadata for scheme rules, act sections, and application links"
+  ],
+  "documents_required": [
+    "Not Applicable"
+  ],
+  "application_process": [
+    "Audit and cross-reference state databases"
+  ],
+  "important_sections_or_clauses": [
+    "IT Infrastructure Guidelines"
+  ],
+  "official_links": [
+    "https://mp.gov.in",
+    "https://myscheme.gov.in",
+    "https://edistrict.mp.gov.in",
+    "https://health.mp.gov.in",
+    "https://samagra.gov.in"
+  ],
+  "helplines": [
+    "181"
+  ],
+  "source_url": "https://mp.gov.in",
+  "last_verified_date": "2026-09-13"
+}

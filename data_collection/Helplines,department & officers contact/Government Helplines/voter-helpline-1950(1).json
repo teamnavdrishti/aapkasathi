@@ -1,0 +1,23 @@
+{
+  "name": "Voter Helpline 1950",
+  "name_hindi": "मतदाता हेल्पलाइन 1950",
+  "category": "Electoral Services & Civic Support",
+  "helpline_number": "1950",
+  "toll_free": true,
+  "availability": "10:00 AM to 6:00 PM (Working Days)",
+  "state": "Madhya Pradesh",
+  "department": "Chief Electoral Officer, Madhya Pradesh",
+  "beneficiary": "Voters and citizens of Madhya Pradesh",
+  "benefits": "Information regarding EPIC card registration, polling booth status, electoral roll modifications, and voter registration.",
+  "eligibility": [
+    "Citizens of India aged 18 and above or prospective voters"
+  ],
+  "required_documents": [
+    "Voter ID / EPIC Number (Optional)",
+    "Aadhaar Card"
+  ],
+  "application_process": "Dial 1950 or submit queries via the Voter Helpline Mobile App / NVSP Portal.",
+  "application_mode": "Phone Call / Voter Helpline App",
+  "official_source": "https://ceomadhyapradesh.nic.in",
+  "last_verified": "2026-09-14"
+}

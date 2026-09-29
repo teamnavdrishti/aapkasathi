@@ -1,0 +1,25 @@
+{
+  "scheme_id": "MP-GOV-009",
+  "scheme_name": "प्रधानमंत्री स्ट्रीट वेंडर्स आत्मनिर्भर निधि",
+  "scheme_name_english": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+  "category": "Employment / Street Vendors / Micro Credit",
+  "state": "Madhya Pradesh",
+  "department": "Ministry of Housing and Urban Affairs, Government of India",
+  "beneficiary": "Eligible street vendors under the current PM SVANidhi rules",
+  "benefits": [
+    "Collateral-free working-capital loans in progressive tranches of up to ₹15,000, ₹25,000 and ₹50,000",
+    "Interest subsidy support for eligible timely repayment",
+    "Digital transaction cashback incentives",
+    "Eligible vendors who successfully repay the second tranche may be eligible for a UPI-linked RuPay Credit Card up to ₹30,000 under the restructured scheme"
+  ],
+  "eligibility": "Eligible street vendors identified through the applicable survey/certificate process or supported by a Letter of Recommendation from the Urban Local Body/Town Vending Committee, subject to current rules.",
+  "required_documents": [
+    "Certificate of Vending/Identity Card where applicable, or Letter of Recommendation where applicable",
+    "Identity and other documents required by the lending/application system"
+  ],
+  "application_process": "Apply through the PM SVANidhi system with the Urban Local Body/Town Vending Committee and participating lending institution as applicable.",
+  "application_mode": "Online / Urban Local Body / Lending Institution",
+  "official_source": "https://www.mohua.gov.in/pm_svandhi/FAQ.pdf",
+  "source_type": "Ministry of Housing and Urban Affairs, Government of India",
+  "last_verified": "2026-09-14"
+}

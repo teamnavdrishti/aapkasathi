@@ -1,0 +1,21 @@
+{
+  "name": "Annapurna Scheme",
+  "category": "Pension",
+  "department": "Ministry of Rural Development",
+  "target_group": [
+    "Eligible BPL senior citizens who are not receiving old-age pension"
+  ],
+  "eligibility": [
+    "Eligibility is subject to NSAP/Annapurna conditions and state implementation."
+  ],
+  "benefits": "Up to 10 kg of food grains per month for eligible senior citizens not receiving old-age pension, subject to current rules.",
+  "documents": [
+    "Age proof",
+    "BPL/eligibility proof",
+    "Identity documents"
+  ],
+  "application_process": "Apply/contact the designated local/state authority implementing NSAP/Annapurna.",
+  "official_link": "https://nsap.nic.in/",
+  "source": "Ministry of Rural Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

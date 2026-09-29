@@ -1,0 +1,19 @@
+{
+  "name": "Railway/Senior Citizen Facilities",
+  "category": "Senior Citizens",
+  "department": "Ministry of Railways",
+  "target_group": [
+    "Eligible senior citizens using Indian Railways services"
+  ],
+  "eligibility": [
+    "Facilities depend on current Indian Railways rules and may change; check official railway information before travel."
+  ],
+  "benefits": "Senior-citizen-related passenger facilities/concessions as available under current railway rules.",
+  "documents": [
+    "Age proof/identity documents when required"
+  ],
+  "application_process": "Use the Indian Railways/IRCTC booking and passenger-service process and follow current rules.",
+  "official_link": "https://indianrailways.gov.in/",
+  "source": "Ministry of Railways / Government of India",
+  "last_verified_date": "2026-09-13"
+}

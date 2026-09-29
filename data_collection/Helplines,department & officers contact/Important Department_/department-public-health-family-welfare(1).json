@@ -1,0 +1,35 @@
+{
+  "department_name": "Public Health and Family Welfare Department",
+  "department_name_hindi": "लोक स्वास्थ्य एवं परिवार कल्याण विभाग",
+  "category": "Healthcare & Sanitation",
+  "state": "Madhya Pradesh",
+  "headquarters": "Mantralaya, Vallabh Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://health.mp.gov.in",
+  "description": "The primary government body responsible for formulating and implementing health policies, maintaining healthcare infrastructure, managing public hospitals, and executing national and state-level public health programs across Madhya Pradesh.",
+  "sub_divisions": [
+    "Directorate of Health Services (DHS)",
+    "National Health Mission (NHM) MP Division",
+    "Madhya Pradesh Public Health Services Corporation Limited (MPPHSCL)",
+    "State Health Society"
+  ],
+  "primary_functions": [
+    "Planning, executing, and monitoring public health infrastructure from District Hospitals down to Sub-Centres",
+    "Implementation of Ayushman Bharat - Niramayam MP Scheme and National Health Mission programs",
+    "Procurement and distribution of essential medicines and medical equipment to government facilities",
+    "Prevention, surveillance, and control of communicable and non-communicable diseases",
+    "Maternal and child health services, including immunization and family planning initiatives"
+  ],
+  "key_services_offered": [
+    "Free inpatient and outpatient medical treatment at public health centers",
+    "Issuance of medical certificates, disability certificates, and birth/death certificates",
+    "Emergency ambulance dispatch and healthcare referral services",
+    "Free diagnostic tests and drug distribution under state health schemes"
+  ],
+  "associated_helplines": [
+    "104 (Health Information & Guidance Helpline)",
+    "108 (Sanjeevani Emergency Ambulance Service)",
+    "14416 (Tele-MANAS Mental Health Helpline)"
+  ],
+  "official_source": "https://health.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

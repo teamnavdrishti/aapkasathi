@@ -1,0 +1,30 @@
+{
+  "scheme_id": "MP-GOV-005",
+  "scheme_name": "प्रधानमंत्री जन धन योजना",
+  "scheme_name_english": "Pradhan Mantri Jan-Dhan Yojana (PMJDY)",
+  "category": "Financial Inclusion / Banking",
+  "state": "Madhya Pradesh",
+  "department": "Department of Financial Services, Ministry of Finance, Government of India",
+  "beneficiary": "Unbanked persons seeking a basic savings bank deposit account",
+  "benefits": [
+    "Basic savings bank account with no minimum balance requirement",
+    "RuPay debit card",
+    "Accident insurance cover as applicable to the RuPay card",
+    "Overdraft facility up to ₹10,000 for eligible account holders",
+    "Access to DBT, insurance and pension-linked services"
+  ],
+  "eligibility": "A person who does not have another bank account can open a basic savings bank deposit account, subject to bank and scheme rules.",
+  "required_documents": [
+    "Officially accepted identity/address documents as required by the bank",
+    "Aadhaar where applicable"
+  ],
+  "application_process": "Visit a participating bank branch or Business Correspondent/Bank Mitra outlet and request a PMJDY account.",
+  "application_mode": "Bank Branch / Bank Mitra",
+  "helpline": [
+    "1800 11 0001",
+    "1800 180 1111"
+  ],
+  "official_source": "https://pmjdy.gov.in/scheme",
+  "source_type": "Department of Financial Services, Government of India",
+  "last_verified": "2026-09-14"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HELP-MP-1950",
+  "category": "Electoral Services & Voter Support",
+  "title": "Voter Helpline MP 1950",
+  "helpline_number": "1950",
+  "department": "Chief Electoral Officer (CEO), Madhya Pradesh",
+  "eligibility": [
+    "Voters and prospective voters in Madhya Pradesh"
+  ],
+  "benefits": [
+    "Check name in voter list, polling booth locations, and EPIC card delivery status",
+    "File voter registration or election-related complaints"
+  ],
+  "documents_required": [
+    "EPIC (Voter ID) Number or Aadhaar Number"
+  ],
+  "application_process": [
+    "Step 1: Dial 1950 with your STD code",
+    "Step 2: Provide EPIC number to check polling station or application status"
+  ],
+  "important_sections_or_clauses": [
+    "Representation of the People Act, 1950"
+  ],
+  "official_links": [
+    "https://ceomadhyapradesh.nic.in"
+  ],
+  "helplines": [
+    "1950"
+  ],
+  "source_url": "https://ceomadhyapradesh.nic.in",
+  "last_verified_date": "2026-09-14"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_id": "MP-GOV-006",
+  "scheme_name": "राष्ट्रीय सामाजिक सहायता कार्यक्रम",
+  "scheme_name_english": "National Social Assistance Programme (NSAP)",
+  "category": "Social Security / Pensions",
+  "state": "Madhya Pradesh",
+  "department": "Ministry of Rural Development, Government of India",
+  "beneficiary": "Eligible elderly persons, widows, persons with disabilities and eligible households under NSAP components",
+  "benefits": [
+    "Social assistance through eligible NSAP pension and family-benefit components",
+    "Includes components such as IGNOAPS, IGNWPS, IGNDPS and National Family Benefit Scheme, subject to current rules"
+  ],
+  "eligibility": "Eligibility differs by NSAP component and applicable government criteria, including age, widowhood/disability and household conditions.",
+  "required_documents": [
+    "Identity and age proof as applicable",
+    "Bank/post-office account details",
+    "Other documents required by the implementing authority"
+  ],
+  "application_process": "Apply through the relevant state/district/local implementing authority following the current NSAP procedure.",
+  "application_mode": "State / District / Local Implementing Authority",
+  "official_source": "https://nsap.nic.in/",
+  "source_type": "National Social Assistance Programme, Government of India",
+  "last_verified": "2026-09-14"
+}

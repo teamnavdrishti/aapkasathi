@@ -1,0 +1,20 @@
+{
+  "name": "Ayushman Bharat PM-JAY - Senior Citizen Coverage",
+  "category": "Senior Citizens",
+  "department": "National Health Authority, Ministry of Health and Family Welfare",
+  "target_group": [
+    "Senior citizens covered under the current PM-JAY senior-citizen provisions"
+  ],
+  "eligibility": [
+    "Eligibility depends on the current PM-JAY senior-citizen rules and identification process."
+  ],
+  "benefits": "Cashless health-cover benefits at empanelled hospitals under the applicable PM-JAY package and rules.",
+  "documents": [
+    "Aadhaar/identity proof",
+    "Other identification documents required for beneficiary verification"
+  ],
+  "application_process": "Check eligibility and obtain/access the PM-JAY beneficiary card through the official portal/CSC/empanelled mechanism.",
+  "official_link": "https://pmjay.gov.in/",
+  "source": "National Health Authority / Government of India",
+  "last_verified_date": "2026-09-13"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Indira Gandhi National Widow Pension Scheme",
+  "category": "Pension",
+  "department": "Ministry of Rural Development",
+  "target_group": [
+    "Eligible BPL widows aged 40–79 years under NSAP rules"
+  ],
+  "eligibility": [
+    "Widow must satisfy the current NSAP eligibility criteria."
+  ],
+  "benefits": "Central pension assistance of ₹300/month for eligible widows aged 40–79 and ₹500/month for 80+, plus applicable state contribution.",
+  "documents": [
+    "Age proof",
+    "Husband's death certificate",
+    "BPL/eligibility proof",
+    "Identity and bank/post-office details"
+  ],
+  "application_process": "Apply through the state/UT social-welfare mechanism designated for NSAP.",
+  "official_link": "https://nsap.nic.in/",
+  "source": "Ministry of Rural Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

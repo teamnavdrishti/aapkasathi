@@ -1,0 +1,37 @@
+{
+  "scheme_id": "MP-GOV-003",
+  "scheme_name": "प्रधानमंत्री उज्ज्वला योजना",
+  "scheme_name_english": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+  "category": "Women / LPG / Social Welfare",
+  "state": "Madhya Pradesh",
+  "department": "Ministry of Petroleum and Natural Gas, Government of India",
+  "beneficiary": "Adult women from eligible poor households",
+  "benefits": [
+    "Security-deposit-free LPG connection",
+    "Free first refill(s) and two-burner stove as specified under PMUY 2.0"
+  ],
+  "eligibility": [
+    "Applicant must be a woman aged 18 years or above",
+    "Applicant must belong to a poor household based on the prescribed deprivation declaration",
+    "There must be no existing LPG connection in the household in the name of a family member listed in the family composition document"
+  ],
+  "required_documents": [
+    "KYC application form",
+    "Aadhaar of applicant",
+    "Proof of address where required",
+    "Ration card or other state government document showing family composition",
+    "Aadhaar of adult family members listed in family document",
+    "Bank account details",
+    "Deprivation declaration"
+  ],
+  "application_process": "Apply through an LPG distributor or the official online PMUY application process.",
+  "application_mode": "Online / LPG Distributor",
+  "helpline": [
+    "1906",
+    "14428",
+    "14438"
+  ],
+  "official_source": "https://www.pmuy.gov.in/ujjwala2.html",
+  "source_type": "Official PMUY portal, Government of India",
+  "last_verified": "2026-09-14"
+}

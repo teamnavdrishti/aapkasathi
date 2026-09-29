@@ -1,0 +1,33 @@
+{
+  "department_name": "Energy Department",
+  "department_name_hindi": "ऊर्जा विभाग",
+  "category": "Power Distribution & Renewable Energy",
+  "state": "Madhya Pradesh",
+  "headquarters": "Mantralaya, Vallabh Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://energy.mp.gov.in",
+  "description": "The governing authority overseeing power generation, transmission, distribution, tariff policies, and rural electrification across Madhya Pradesh.",
+  "sub_divisions": [
+    "MP Power Management Company Limited (MPPMCL)",
+    "MP Poorv Kshetra Vidyut Vitaran Co. Ltd. (Jabalpur)",
+    "MP Madhya Kshetra Vidyut Vitaran Co. Ltd. (Bhopal)",
+    "MP Paschim Kshetra Vidyut Vitaran Co. Ltd. (Indore)"
+  ],
+  "primary_functions": [
+    "Regulating continuous power supply for domestic, agricultural, and commercial sectors",
+    "Rural and agricultural feeder separation and power grid network expansion",
+    "Executing power subsidy schemes including Griha Jyoti Yojana",
+    "Infrastructure maintenance, high-voltage transmission lines, and meter management"
+  ],
+  "key_services_offered": [
+    "New electricity connection applications for residential, commercial, and agricultural use",
+    "Electricity bill payment portal and bill dispute resolution",
+    "Meter replacement, load enhancement/reduction requests",
+    "Solar rooftop subsidy application assistance and net metering approvals"
+  ],
+  "associated_helplines": [
+    "1912 (Electricity Consumer Grievance Center)",
+    "18002331912 (Discom Support Line)"
+  ],
+  "official_source": "https://energy.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sanjeevani Emergency Medical Ambulance Service (108)",
+  "name_hindi": "संजीवनी 108 आपातकालीन एम्बुलेंस सेवा",
+  "category": "Medical Emergency & Trauma Care",
+  "helpline_number": "108",
+  "toll_free": true,
+  "availability": "24x7",
+  "state": "Madhya Pradesh",
+  "department": "Public Health and Family Welfare Department, Government of Madhya Pradesh",
+  "beneficiary": "Trauma victims, patients in critical condition, pregnant women, and accident victims requiring immediate medical evacuation",
+  "benefits": "Free 24x7 emergency medical transportation equipped with life-support apparatus, trained emergency medical technicians (EMTs), and direct hospital handover.",
+  "eligibility": [
+    "Anyone experiencing or witnessing a critical medical emergency or severe accident within Madhya Pradesh"
+  ],
+  "required_documents": [
+    "None"
+  ],
+  "application_process": "Dial 108 from any mobile phone or landline, state the patient's condition, and share the exact pickup address or nearby landmark.",
+  "application_mode": "Toll-Free Phone Call / MP 108 Mobile App",
+  "official_source": "https://health.mp.gov.in",
+  "last_verified": "2026-09-13"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "National Pension System",
+  "category": "Pension",
+  "department": "Pension Fund Regulatory and Development Authority",
+  "target_group": [
+    "Eligible citizens/subscribers under NPS rules"
+  ],
+  "eligibility": [
+    "Eligibility and account-opening conditions depend on the applicable NPS model and regulations."
+  ],
+  "benefits": "Market-linked retirement savings and pension-related benefits under NPS rules.",
+  "documents": [
+    "PAN/Aadhaar or KYC documents",
+    "Bank account details",
+    "Nomination details"
+  ],
+  "application_process": "Open an NPS account through the official eNPS platform or authorised Point of Presence.",
+  "official_link": "https://enps.nsdl.com/",
+  "source": "PFRDA / Government of India",
+  "last_verified_date": "2026-09-13"
+}

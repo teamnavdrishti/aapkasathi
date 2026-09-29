@@ -1,0 +1,22 @@
+{
+  "name": "Atal Pension Yojana",
+  "category": "Pension",
+  "department": "Department of Financial Services, Ministry of Finance",
+  "target_group": [
+    "Indian citizens aged 18–40 who meet current APY conditions"
+  ],
+  "eligibility": [
+    "Age 18–40 at joining",
+    "Must have a savings bank/post office savings account",
+    "Other current APY conditions apply"
+  ],
+  "benefits": "Guaranteed minimum pension options of ₹1,000 to ₹5,000 per month from age 60, depending on the chosen contribution/pension slab and applicable rules.",
+  "documents": [
+    "Aadhaar/identity and KYC",
+    "Savings bank/post-office account details"
+  ],
+  "application_process": "Open/enrol through a participating bank or post office.",
+  "official_link": "https://www.pfrda.org.in/",
+  "source": "PFRDA / Government of India",
+  "last_verified_date": "2026-09-13"
+}

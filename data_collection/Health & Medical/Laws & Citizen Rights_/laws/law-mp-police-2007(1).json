@@ -1,0 +1,37 @@
+{
+  "id": "LAW-MP-POLICE-2007",
+  "category": "Public Order & Safety",
+  "title": "Madhya Pradesh Police Act, 2007",
+  "department": "Home Department / MP Police",
+  "eligibility": [
+    "All residents and visitors in Madhya Pradesh"
+  ],
+  "benefits": [
+    "Establishment of transparent police accountability mechanisms",
+    "Protection of citizen rights during investigation and detention"
+  ],
+  "documents_required": [
+    "Written Complaint / FIR Draft",
+    "Identity Proof"
+  ],
+  "application_process": [
+    "Step 1: File complaint online via MP Police Citizen Portal or at local Police Station.",
+    "Step 2: Obtain free copy of FIR.",
+    "Step 3: Track investigation status online."
+  ],
+  "important_sections_or_clauses": [
+    "Section 34: Duty of police officers regarding community policing and public safety",
+    "Section 52: Police Complaints Authority setup at State and District levels"
+  ],
+  "official_links": [
+    "https://mppolice.gov.in",
+    "https://citizen.mppolice.gov.in"
+  ],
+  "helplines": [
+    "100 (Emergency)",
+    "112 (National Emergency)",
+    "1930 (Cyber Helpline)"
+  ],
+  "source_url": "https://mppolice.gov.in",
+  "last_verified_date": "2026-09-13"
+}

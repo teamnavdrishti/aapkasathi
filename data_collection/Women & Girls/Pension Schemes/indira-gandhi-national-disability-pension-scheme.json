@@ -1,0 +1,22 @@
+{
+  "name": "Indira Gandhi National Disability Pension Scheme",
+  "category": "Pension",
+  "department": "Ministry of Rural Development",
+  "target_group": [
+    "Eligible BPL persons with severe disability under NSAP criteria"
+  ],
+  "eligibility": [
+    "Current NSAP disability and age conditions must be met."
+  ],
+  "benefits": "Central pension assistance of ₹300/month for eligible beneficiaries aged 18–79 and ₹500/month for age 80+, plus applicable state contribution.",
+  "documents": [
+    "Disability certificate",
+    "Age proof",
+    "BPL/eligibility proof",
+    "Identity and bank/post-office details"
+  ],
+  "application_process": "Apply through the state/UT authority implementing NSAP.",
+  "official_link": "https://nsap.nic.in/",
+  "source": "Ministry of Rural Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

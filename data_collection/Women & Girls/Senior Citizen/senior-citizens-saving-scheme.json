@@ -1,0 +1,22 @@
+{
+  "name": "Senior Citizens Savings Scheme",
+  "category": "Senior Citizens",
+  "department": "Ministry of Finance, Department of Economic Affairs",
+  "target_group": [
+    "Eligible senior citizens and other persons permitted under SCSS rules"
+  ],
+  "eligibility": [
+    "Age and account-opening conditions are governed by the current SCSS rules."
+  ],
+  "benefits": "Government-backed savings/deposit scheme with interest and specified maturity/extension rules.",
+  "documents": [
+    "Age proof",
+    "Identity/address proof",
+    "Account-opening documents",
+    "Bank/post-office KYC documents"
+  ],
+  "application_process": "Open an SCSS account at an authorised bank or post office.",
+  "official_link": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+  "source": "Department of Economic Affairs / Government of India",
+  "last_verified_date": "2026-09-13"
+}

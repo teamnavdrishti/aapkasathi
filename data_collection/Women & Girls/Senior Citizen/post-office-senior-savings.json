@@ -1,0 +1,22 @@
+{
+  "name": "Post Office Senior Citizen Savings Account Services",
+  "category": "Senior Citizens",
+  "department": "Department of Posts, Ministry of Communications",
+  "target_group": [
+    "Eligible senior citizens opening qualifying post-office savings accounts"
+  ],
+  "eligibility": [
+    "Account opening and operation are governed by the applicable Post Office Savings Scheme rules."
+  ],
+  "benefits": "Access to eligible senior-citizen savings products through post offices.",
+  "documents": [
+    "KYC/identity proof",
+    "Address proof",
+    "Age proof",
+    "Nomination/account forms"
+  ],
+  "application_process": "Visit an authorised post office and follow the account-opening process.",
+  "official_link": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+  "source": "Department of Posts / Government of India",
+  "last_verified_date": "2026-09-13"
+}

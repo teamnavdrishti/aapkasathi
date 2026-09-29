@@ -1,0 +1,22 @@
+{
+  "name": "Indira Gandhi National Old Age Pension Scheme",
+  "category": "Pension",
+  "department": "Ministry of Rural Development",
+  "target_group": [
+    "Eligible BPL senior citizens aged 60 years and above under NSAP rules"
+  ],
+  "eligibility": [
+    "Beneficiary must meet the current NSAP eligibility conditions; central assistance differs by age group."
+  ],
+  "benefits": "Central pension assistance: ₹200/month for eligible BPL beneficiaries aged 60–79 and ₹500/month for age 80+, with states/UTs adding their own contribution as applicable.",
+  "documents": [
+    "Age proof",
+    "BPL/eligibility proof",
+    "Identity proof",
+    "Bank/post-office account details"
+  ],
+  "application_process": "Apply through the state/UT social-welfare or rural-development mechanism designated for NSAP.",
+  "official_link": "https://nsap.nic.in/",
+  "source": "Ministry of Rural Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

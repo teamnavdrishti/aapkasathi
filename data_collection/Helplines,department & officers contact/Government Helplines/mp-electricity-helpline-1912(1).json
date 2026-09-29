@@ -1,0 +1,22 @@
+{
+  "name": "MP Electricity Consumer Grievance Helpline 1912",
+  "name_hindi": "मध्य प्रदेश बिजली उपभोक्ता हेल्पलाइन 1912",
+  "category": "Public Utility & Power Distribution",
+  "helpline_number": "1912",
+  "toll_free": true,
+  "availability": "24x7",
+  "state": "Madhya Pradesh",
+  "department": "Department of Energy, Government of Madhya Pradesh",
+  "beneficiary": "Electricity consumers across Madhya Pradesh",
+  "benefits": "Lodging complaints regarding power outages, billing errors, meter faults, and new connection tracking.",
+  "eligibility": [
+    "Electricity connection holders and consumers in MP"
+  ],
+  "required_documents": [
+    "Consumer IVRS Number / Account Number"
+  ],
+  "application_process": "Dial 1912 or register complaints via the MP Electricity Discom mobile app.",
+  "application_mode": "Phone Call / Discom Mobile App",
+  "official_source": "https://energy.mp.gov.in",
+  "last_verified": "2026-09-14"
+}

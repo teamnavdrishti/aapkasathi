@@ -1,0 +1,35 @@
+{
+  "department_name": "Women and Child Development Department",
+  "department_name_hindi": "महिला एवं बाल विकास विभाग",
+  "category": "Women Empowerment & Child Welfare",
+  "state": "Madhya Pradesh",
+  "headquarters": "Vijaya Raje Vatsalya Bhawan, Arera Hills, Bhopal, Madhya Pradesh - 462011",
+  "official_website": "https://mpwcdmis.gov.in",
+  "description": "The principal government organ focused on holistic development, health, protection, and empowerment of women and children through targeted flagship welfare schemes, Anganwadi networks, and legal protection cells.",
+  "sub_divisions": [
+    "Directorate of Integrated Child Development Services (ICDS)",
+    "Madhya Pradesh State Commission for Women",
+    "State Child Protection Society (SCPS)",
+    "State Nutrition Mission"
+  ],
+  "primary_functions": [
+    "Execution of flagship financial assistance programs including Chief Minister Ladli Behna Yojana",
+    "Implementation of Ladli Laxmi Yojana to encourage female child education and birth ratio balance",
+    "Operation and monitoring of Anganwadi Centers for child nutrition, early education, and maternal care",
+    "Protection of women from domestic violence, harassment, and societal discrimination",
+    "Management of Child Protection Services, One Stop Centers (Sakhi), and working women's hostels"
+  ],
+  "key_services_offered": [
+    "Direct Benefit Transfer (DBT) registration for Ladli Behna and Ladli Laxmi Schemes",
+    "Supplementary nutrition, growth monitoring, and pre-school education at local Anganwadis",
+    "Emergency shelter, legal aid, and counseling for distress women through Sakhi One Stop Centers",
+    "Adoption services regulation under CARA guidelines and child safety monitoring"
+  ],
+  "associated_helplines": [
+    "1090 (Women Helpline)",
+    "1098 (Childline Support)",
+    "181 (CM Helpline - WCD Portal Redressal)"
+  ],
+  "official_source": "https://mpwcdmis.gov.in",
+  "last_verified": "2026-09-15"
+}

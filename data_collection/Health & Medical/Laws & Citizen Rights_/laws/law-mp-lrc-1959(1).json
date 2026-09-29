@@ -1,0 +1,37 @@
+{
+  "id": "LAW-MP-LRC-1959",
+  "category": "Land & Revenue Law",
+  "title": "Madhya Pradesh Land Revenue Code, 1959",
+  "department": "Revenue Department MP",
+  "eligibility": [
+    "Landowners, Farmers, and Property Holders in Madhya Pradesh"
+  ],
+  "benefits": [
+    "Legal ownership rights and tenancy protection",
+    "Streamlined land mutation, partition, and land-use conversion processes"
+  ],
+  "documents_required": [
+    "Khasra / Khatoni Extract",
+    "Sale Deed / Registry",
+    "Identity Proof"
+  ],
+  "application_process": [
+    "Step 1: Submit mutation/demarcation request on Revenue Case Management System (RCMS).",
+    "Step 2: Field inspection by Patwari / Revenue Inspector.",
+    "Step 3: Order issued by Tehsildar Court."
+  ],
+  "important_sections_or_clauses": [
+    "Section 109: Duty to report acquisition of rights for land mutation",
+    "Section 110: Procedure for recording mutation in Khasra",
+    "Section 172: Conversion of agricultural land to non-agricultural purpose"
+  ],
+  "official_links": [
+    "https://rcms.mp.gov.in",
+    "https://mpbhulekh.gov.in"
+  ],
+  "helplines": [
+    "181"
+  ],
+  "source_url": "https://indiacode.nic.in",
+  "last_verified_date": "2026-09-13"
+}

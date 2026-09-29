@@ -1,0 +1,34 @@
+{
+  "department_name": "Farmer Welfare and Agriculture Development Department",
+  "department_name_hindi": "किसान कल्याण तथा कृषि विकास विभाग",
+  "category": "Agriculture & Rural Economy",
+  "state": "Madhya Pradesh",
+  "headquarters": "Vindhyachal Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://mpkrishi.mp.gov.in",
+  "description": "The apex nodal department driving agricultural growth, crop production enhancement, soil conservation, and economic welfare for farming communities across Madhya Pradesh.",
+  "sub_divisions": [
+    "State Agriculture Marketing Board (MP Mandi Board)",
+    "Directorate of Agriculture",
+    "State Seed & Farm Development Corporation",
+    "Soil Testing and Conservation Wing"
+  ],
+  "primary_functions": [
+    "Ensuring availability of certified seeds, quality fertilizers, and micro-nutrients to farmers",
+    "Implementation of central and state farm schemes like PM-KISAN, PM Fasal Bima Yojana, and Subsidies",
+    "Promotion of modern farming techniques, organic farming, micro-irrigation, and mechanization",
+    "Regulation and management of agricultural produce markets (Krishi Upaj Mandis)",
+    "Soil health testing, crop damage assessment, and agricultural advisory services"
+  ],
+  "key_services_offered": [
+    "Subsidized distribution of seeds, fertilizers, and agricultural machinery via MP Krishi Portal",
+    "Registration and claim processing under Pradhan Mantri Fasal Bima Yojana (Crop Insurance)",
+    "Soil Health Card generation and customized crop recommendation services",
+    "Online tracking of Mandi procurement prices and digital gate pass issuing"
+  ],
+  "associated_helplines": [
+    "18001801551 (Kisan Call Center Toll-Free Number)",
+    "181 (CM Helpline Agricultural Support Desk)"
+  ],
+  "official_source": "https://mpkrishi.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

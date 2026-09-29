@@ -1,0 +1,34 @@
+{
+  "department_name": "Social Justice and Disabled Welfare Department",
+  "department_name_hindi": "सामाजिक न्याय एवं दिव्यांगजन सशक्तिकरण विभाग",
+  "category": "Social Security & Human Welfare",
+  "state": "Madhya Pradesh",
+  "headquarters": "12, Malviya Nagar, Bhopal, Madhya Pradesh - 462003",
+  "official_website": "https://socialjustice.mp.gov.in",
+  "description": "The department dedicated to upliftment, social security, and economic protection of vulnerable groups including senior citizens, persons with disabilities (Divyangjan), destitute individuals, widows, and marginalized communities.",
+  "sub_divisions": [
+    "Samagra Social Security Mission (SSSM)",
+    "Directorate of Social Justice",
+    "State Commissionerate for Persons with Disabilities",
+    "Senior Citizen Welfare Board"
+  ],
+  "primary_functions": [
+    "Execution of social security pensions including Old Age Pension, Disability Pension, and Widow Pension",
+    "Implementation and database maintenance of the Samagra Portal (Single Citizen ID Framework)",
+    "Provision of assistive devices, rehabilitation, and equal opportunity schemes for Divyangjan",
+    "Supervision of old age homes, rehabilitation centers, and homes for destitute women and children",
+    "Implementation of Chief Minister's social welfare initiatives including mass marriage schemes"
+  ],
+  "key_services_offered": [
+    "Samagra Family ID and Member ID creation, updating, and e-KYC verification",
+    "Application processing for Social Security Pension Schemes (Indira Gandhi & State Pensions)",
+    "Issue of Unique Disability ID (UDID) cards and assistive equipment allocation",
+    "Financial assistance under Chief Minister Kanya Vivah / Nikah Scheme"
+  ],
+  "associated_helplines": [
+    "14567 (Elderline - Senior Citizen Helpline)",
+    "0755-2700800 (Samagra Portal Technical Support)"
+  ],
+  "official_source": "https://socialjustice.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

@@ -1,0 +1,34 @@
+{
+  "department_name": "Revenue Department",
+  "department_name_hindi": "राजस्व विभाग",
+  "category": "Land Records & Public Administration",
+  "state": "Madhya Pradesh",
+  "headquarters": "Mantralaya, Vallabh Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://rcms.mp.gov.in",
+  "description": "The administrative department tasked with land administration, maintenance of land records, revenue collection, disaster management, and issuing critical official certificates to citizens of Madhya Pradesh.",
+  "sub_divisions": [
+    "Board of Revenue (Gwalior)",
+    "Commissioner of Land Records and Settlement (CLR MP)",
+    "District Revenue Administration (Collectorates, Tehsil & Tappa Offices)",
+    "Disaster Management Cell"
+  ],
+  "primary_functions": [
+    "Maintenance, digitization, and updating of land rights records (Khasra, Khatauni, and Maps)",
+    "Adjudication of land disputes, demarcation, mutation (Namantaran), and land division (Batwara)",
+    "Collection of land revenue, agricultural cess, and execution of land acquisition for public infrastructure",
+    "Administration of relief measures during natural calamities, droughts, floods, and crop damage",
+    "Supervision of field revenue officials including Sub-Divisional Magistrates (SDM), Tehsildars, and Patwaris"
+  ],
+  "key_services_offered": [
+    "Issuance of certified Khasra/Khatoni copies and land ownership maps (Bhudesh)",
+    "Online tracking of land dispute cases via Revenue Case Management System (RCMS)",
+    "Issuance of Caste, Income, Domicile, and Solvency Certificates via MP e-District",
+    "Land conversion (Nazul) permissions and agriculture-to-non-agriculture usage approvals"
+  ],
+  "associated_helplines": [
+    "181 (CM Helpline for Revenue Grievances)",
+    "0755-2700800 (MP e-District Citizen Support)"
+  ],
+  "official_source": "https://rcms.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

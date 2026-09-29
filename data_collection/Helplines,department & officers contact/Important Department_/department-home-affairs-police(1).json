@@ -1,0 +1,34 @@
+{
+  "department_name": "Home Department",
+  "department_name_hindi": "गृह विभाग",
+  "category": "Law Enforcement & Public Safety",
+  "state": "Madhya Pradesh",
+  "headquarters": "Mantralaya, Vallabh Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://home.mp.gov.in",
+  "description": "The administrative department responsible for maintaining internal security, law and order, police administration, fire services, and jail management across Madhya Pradesh.",
+  "sub_divisions": [
+    "Madhya Pradesh Police Headquarters (PHQ)",
+    "State Cyber Crime Cell",
+    "Home Guards and Civil Defence",
+    "Directorate of Forensic Science Services"
+  ],
+  "primary_functions": [
+    "Maintenance of public order, law enforcement, and crime prevention",
+    "Supervision of police administration, traffic regulation, and investigation agencies",
+    "Cybercrime monitoring, prevention, and public awareness initiatives",
+    "Disaster emergency response, fire services, and civil protection execution"
+  ],
+  "key_services_offered": [
+    "Online FIR registration (e-FIR) for non-cognizable and property theft offenses",
+    "Issuance of Police Clearance Certificates (PCC) and character verifications",
+    "Tenant, domestic help, and employee background verification services",
+    "Event and procession permissions, NOC issuance for petroleum/fireworks"
+  ],
+  "associated_helplines": [
+    "112 (Emergency Response Support System - ERSS)",
+    "1930 (National Cyber Crime Helpline)",
+    "1090 (Women Helpline)"
+  ],
+  "official_source": "https://home.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

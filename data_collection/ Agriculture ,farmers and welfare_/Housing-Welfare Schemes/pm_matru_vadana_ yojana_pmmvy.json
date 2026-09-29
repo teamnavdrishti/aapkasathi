@@ -1,0 +1,29 @@
+{
+  "scheme_id": "MP-GOV-008",
+  "scheme_name": "प्रधानमंत्री मातृ वंदना योजना",
+  "scheme_name_english": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+  "category": "Women / Maternity / Health",
+  "state": "Madhya Pradesh",
+  "department": "Ministry of Women and Child Development, Government of India",
+  "beneficiary": "Eligible pregnant women and lactating mothers",
+  "benefits": [
+    "₹5,000 for the first living child in two instalments, subject to conditions",
+    "₹6,000 for the second child if the second child is a girl, subject to conditions",
+    "Promotes maternal health, nutrition and health-seeking behaviour"
+  ],
+  "eligibility": [
+    "Women belonging to specified socially or economically disadvantaged categories",
+    "Examples include SC/ST women, women with disability, BPL ration-card holders, PM-JAY beneficiaries, e-Shram card holders, women farmers receiving Kisan Samman Nidhi, MGNREGA job-card holders, women with specified family income and other categories prescribed by the Central Government"
+  ],
+  "required_documents": [
+    "Accepted identity details",
+    "Bank/post-office account details for DBT",
+    "Pregnancy, childbirth and immunisation records/details as required",
+    "Proof of applicable eligibility category"
+  ],
+  "application_process": "Apply through the prescribed PMMVY process, generally with the Anganwadi Centre or other authorised implementing channel.",
+  "application_mode": "Anganwadi / Online Government Process",
+  "official_source": "https://www.spniwcd.wcd.gov.in/pradhan-mantri-matru-vandana-yojna/faqs",
+  "source_type": "Ministry of Women and Child Development, Government of India",
+  "last_verified": "2026-09-14"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pradhan Mantri Matru Vandana Yojana",
+  "category": "Women",
+  "department": "Ministry of Women and Child Development",
+  "target_group": [
+    "Eligible pregnant women and lactating mothers under the scheme guidelines"
+  ],
+  "eligibility": [
+    "Eligibility is subject to the current PMMVY guidelines.",
+    "Benefits are subject to scheme conditions and verification."
+  ],
+  "benefits": "Maternity benefit through Direct Benefit Transfer; current scheme provides ₹5,000 for the first living child and ₹6,000 for a second child when the second child is a girl, subject to conditions.",
+  "documents": [
+    "Aadhaar/approved identity document",
+    "Bank account details",
+    "Pregnancy/childbirth-related records as required",
+    "Other documents prescribed by the portal"
+  ],
+  "application_process": "Apply through the official PMMVY portal or with assistance from Anganwadi/ASHA workers, as applicable.",
+  "official_link": "https://www.spniwcd.wcd.gov.in/pradhan-mantri-matru-vandana-yojna",
+  "source": "Ministry of Women and Child Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CM Helpline 181",
+  "name_hindi": "सीएम हेल्पलाइन 181 लोक सेवा गारंटी",
+  "category": "Public Grievance Redressal",
+  "helpline_number": "181",
+  "toll_free": true,
+  "availability": "24x7",
+  "state": "Madhya Pradesh",
+  "department": "Public Grievance Redressal Department, Government of Madhya Pradesh",
+  "beneficiary": "All citizens, farmers, students, and residents of Madhya Pradesh",
+  "benefits": "Direct lodging of citizen complaints against government departments and tracking time-bound resolution.",
+  "eligibility": [
+    "Citizen seeking departmental resolution or government scheme information"
+  ],
+  "required_documents": [
+    "Registered Mobile Number",
+    "Samagra ID / Aadhaar Card (Optional)"
+  ],
+  "application_process": "Dial 181 to register a complaint or register directly via the portal or app.",
+  "application_mode": "Phone Call / Online Portal / CM Helpline Mobile App",
+  "official_source": "https://cmhelpline.mp.gov.in",
+  "last_verified": "2026-09-13"
+}

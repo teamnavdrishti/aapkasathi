@@ -1,0 +1,19 @@
+{
+  "name": "Women Helpline 181",
+  "category": "Women",
+  "department": "Ministry of Women and Child Development",
+  "target_group": [
+    "Women seeking support, information or assistance"
+  ],
+  "eligibility": [
+    "Available to women seeking information, support or referral under the Women Helpline service."
+  ],
+  "benefits": "Information, support, counselling/referral and linkage to relevant services.",
+  "documents": [
+    "Usually basic caller information; additional documents may be required by the referred service"
+  ],
+  "application_process": "Call the official Women Helpline service or access it through the relevant state implementation mechanism.",
+  "official_link": "https://missionshakti.wcd.gov.in/",
+  "source": "Ministry of Women and Child Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "District Disaster Management Emergency Helpline (1077)",
+    "name_hindi": "जिला आपदा प्रबंधन हेल्पलाइन (1077)",
+    "category": "Disaster Relief",
+    "helpline_number": "1077",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "Revenue and Disaster Management / District Collectorates, MP",
+    "beneficiary": "District-level residents during localized flash floods and weather emergencies",
+    "benefits": "Direct communication with local district collectorate emergency cells.",
+    "eligibility": ["Anyone facing localized disaster situations in any MP district"],
+    "required_documents": ["None"],
+    "application_process": "Dial 1077 within the district to route to the local collectorate control room.",
+    "application_mode": "Phone Call",
+    "application_fee": "0",
+    "official_source": "https://mp.gov.in",
+    "last_verified": "2026-09-13"
+}

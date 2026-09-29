@@ -1,0 +1,23 @@
+{
+  "name": "MP State Scholarship Portal Helpline",
+  "name_hindi": "मध्य प्रदेश छात्रवृत्ति पोर्टल हेल्पलाइन",
+  "category": "Education & Student Welfare",
+  "helpline_number": "0755-2660063",
+  "toll_free": false,
+  "availability": "10:00 AM to 5:30 PM (Working Days)",
+  "state": "Madhya Pradesh",
+  "department": "Higher Education & Tribal Welfare Department, MP",
+  "beneficiary": "Students belonging to SC, ST, OBC, and economically weaker sections",
+  "benefits": "Guidance on online scholarship application status, e-KYC validation, and institutional verification.",
+  "eligibility": [
+    "Students enrolled in school or higher education institutions in MP"
+  ],
+  "required_documents": [
+    "Samagra Member ID",
+    "Applicant Roll Number / Application ID"
+  ],
+  "application_process": "Call 0755-2660063 or raise a query directly on the MP Scholarship Portal 2.0.",
+  "application_mode": "Phone Call / Online Portal",
+  "official_source": "https://scholarshipportal.mp.nic.in",
+  "last_verified": "2026-09-14"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HELP-MP-104",
+  "category": "Health Information & Tele-consultation",
+  "title": "Health Information & Advice Helpline 104",
+  "helpline_number": "104",
+  "department": "Department of Public Health and Family Welfare, MP",
+  "eligibility": [
+    "All citizens seeking non-emergency health advice in MP"
+  ],
+  "benefits": [
+    "Tele-consultation with qualified doctors",
+    "Information on government hospital locations, blood availability, and free drug schemes"
+  ],
+  "documents_required": [
+    "None"
+  ],
+  "application_process": [
+    "Step 1: Dial 104",
+    "Step 2: Choose medical consultation or health scheme information from IVR"
+  ],
+  "important_sections_or_clauses": [
+    "National Health Mission Tele-medicine Guidelines"
+  ],
+  "official_links": [
+    "https://health.mp.gov.in"
+  ],
+  "helplines": [
+    "104"
+  ],
+  "source_url": "https://health.mp.gov.in",
+  "last_verified_date": "2026-09-14"
+}

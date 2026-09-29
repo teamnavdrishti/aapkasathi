@@ -1,0 +1,23 @@
+{
+  "name": "MP Shramik Sewa Helpline",
+  "name_hindi": "मध्य प्रदेश श्रमिक सेवा हेल्पलाइन",
+  "category": "Labor Welfare & Employment",
+  "helpline_number": "1800155555",
+  "toll_free": true,
+  "availability": "10:00 AM to 5:30 PM (Working Days)",
+  "state": "Madhya Pradesh",
+  "department": "Labor Department, Government of Madhya Pradesh",
+  "beneficiary": "Registered workers, unorganized labor, and construction workers in MP",
+  "benefits": "Information on Sambal Yojana benefits, maternity assistance, worker registration, and financial aid.",
+  "eligibility": [
+    "Registered workers under Shramik Sewa / Sambal scheme in MP"
+  ],
+  "required_documents": [
+    "Shramik Card / Sambal ID",
+    "Samagra Member ID"
+  ],
+  "application_process": "Dial 1800-155-555 or track benefit status via the Shramik Sewa Portal.",
+  "application_mode": "Phone Call / Shramik Portal",
+  "official_source": "https://shramdaan.mp.gov.in",
+  "last_verified": "2026-09-14"
+}

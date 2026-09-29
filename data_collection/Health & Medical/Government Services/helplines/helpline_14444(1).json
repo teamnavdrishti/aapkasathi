@@ -1,0 +1,34 @@
+{
+  "id": "HELP-MP-14444",
+  "category": "Ayushman Bharat Assistance",
+  "title": "Ayushman Bharat Niramayam MP Helpline 14444",
+  "helpline_number": "14444",
+  "department": "State Health Agency, MP",
+  "eligibility": [
+    "Ayushman Bharat card holders or eligible beneficiaries in MP"
+  ],
+  "benefits": [
+    "Inquire about free health coverage up to ₹5 Lakh/year",
+    "Locate empanelled hospitals and resolve cashless treatment refusal grievances"
+  ],
+  "documents_required": [
+    "Samagra ID",
+    "Ayushman Card Number / Aadhaar Card"
+  ],
+  "application_process": [
+    "Step 1: Call 14444 or 1800-233-2085",
+    "Step 2: Provide Ayushman ID/Samagra ID to agent to verify eligibility or log complaints"
+  ],
+  "important_sections_or_clauses": [
+    "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana Guidelines"
+  ],
+  "official_links": [
+    "https://ayushmanbharat.mp.gov.in"
+  ],
+  "helplines": [
+    "14444",
+    "1800-233-2085"
+  ],
+  "source_url": "https://ayushmanbharat.mp.gov.in",
+  "last_verified_date": "2026-09-14"
+}

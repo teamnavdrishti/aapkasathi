@@ -1,0 +1,33 @@
+{
+  "department_name": "School Education Department",
+  "department_name_hindi": "स्कूल शिक्षा विभाग",
+  "category": "Primary & Secondary Education",
+  "state": "Madhya Pradesh",
+  "headquarters": "Mantralaya, Vallabh Bhawan, Bhopal, Madhya Pradesh - 462004",
+  "official_website": "https://educationportal.mp.gov.in",
+  "description": "The nodal agency tasked with overseeing primary, secondary, and higher secondary education, formulating academic policies, and implementing free education schemes across MP.",
+  "sub_divisions": [
+    "State Council of Educational Research and Training (SCERT MP)",
+    "Madhya Pradesh Board of Secondary Education (MPBSE)",
+    "Rajya Shiksha Kendra (RSK)",
+    "RTE Monitoring Cell"
+  ],
+  "primary_functions": [
+    "Operation and regulation of government primary, middle, and high schools",
+    "Implementation of Right to Education (RTE) Act and free admission drive in private schools",
+    "Conducting Board examinations for Class 10th and 12th through MPBSE",
+    "Teacher recruitment, training, and school infrastructure development"
+  ],
+  "key_services_offered": [
+    "Online RTE lottery application for 25% quota in private schools",
+    "Distribution of free textbooks, uniforms, and cycles under state student welfare schemes",
+    "Publication of MPBSE board results and mark sheet verifications",
+    "School recognition, affiliation, and teacher transfer portal operations"
+  ],
+  "associated_helplines": [
+    "0755-2551535 (MPBSE Student Exam Helpline)",
+    "181 (CM Helpline - Education Complaints Desk)"
+  ],
+  "official_source": "https://educationportal.mp.gov.in",
+  "last_verified": "2026-09-15"
+}

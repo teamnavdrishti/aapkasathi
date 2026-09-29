@@ -1,0 +1,21 @@
+{
+  "name": "Employees' Pension Scheme, 1995",
+  "category": "Pension",
+  "department": "Employees' Provident Fund Organisation, Ministry of Labour and Employment",
+  "target_group": [
+    "Eligible EPFO members and pensionable employees under EPS rules"
+  ],
+  "eligibility": [
+    "Membership, service and pension conditions are governed by the EPS-1995 scheme and EPFO rules."
+  ],
+  "benefits": "Pension and related benefits for eligible EPFO members, including superannuation and other categories under the scheme.",
+  "documents": [
+    "UAN/member details",
+    "Identity/KYC documents",
+    "Service/contribution records"
+  ],
+  "application_process": "Use the EPFO member/employer process and official EPFO portal for claims and pension services.",
+  "official_link": "https://www.epfindia.gov.in/",
+  "source": "EPFO / Government of India",
+  "last_verified_date": "2026-09-13"
+}

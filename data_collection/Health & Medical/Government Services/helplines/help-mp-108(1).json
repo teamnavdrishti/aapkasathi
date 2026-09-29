@@ -1,0 +1,30 @@
+{
+  "id": "HELP-MP-108",
+  "category": "Emergency Medical Helpline",
+  "title": "108 Sanjeevani Emergency Ambulance Service MP",
+  "department": "Department of Public Health and Family Welfare",
+  "eligibility": [
+    "Anyone experiencing a medical emergency within Madhya Pradesh"
+  ],
+  "benefits": [
+    "24/7 toll-free emergency ambulance dispatch with Basic/Advanced Life Support"
+  ],
+  "documents_required": [
+    "None required during emergency call"
+  ],
+  "application_process": [
+    "Dial 108 from any phone to report location and nature of medical emergency"
+  ],
+  "important_sections_or_clauses": [
+    "National Health Mission Emergency Protocol"
+  ],
+  "official_links": [
+    "https://health.mp.gov.in"
+  ],
+  "helplines": [
+    "108",
+    "102 (Maternal Emergency)"
+  ],
+  "source_url": "https://health.mp.gov.in",
+  "last_verified_date": "2026-09-13"
+}

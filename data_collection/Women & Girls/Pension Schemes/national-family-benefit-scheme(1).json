@@ -1,0 +1,22 @@
+{
+  "name": "National Family Benefit Scheme",
+  "category": "Pension",
+  "department": "Ministry of Rural Development",
+  "target_group": [
+    "Eligible BPL households where the primary breadwinner aged 18–59 has died"
+  ],
+  "eligibility": [
+    "Family and breadwinner conditions must meet current NSAP rules."
+  ],
+  "benefits": "Lump-sum central assistance of ₹20,000 to the eligible surviving household head under the scheme.",
+  "documents": [
+    "Death certificate",
+    "Age/breadwinner proof",
+    "BPL/eligibility proof",
+    "Identity and bank details"
+  ],
+  "application_process": "Apply through the state/UT authority implementing NSAP.",
+  "official_link": "https://nsap.nic.in/",
+  "source": "Ministry of Rural Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

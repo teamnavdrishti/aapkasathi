@@ -1,0 +1,33 @@
+{
+  "id": "MP-EDU-TRIBAL-POST-MATRIC-SCHOLARSHIP",
+  "category": "Education Scheme",
+  "title": "Post-Matric Scholarship for Classes 11-12 and College (2676)",
+  "department": "Tribal Affairs Department",
+  "eligibility": [
+    "Scheduled Tribe students studying in Classes 11-12, colleges, PhD and professional courses",
+    "Applicant must be a Madhya Pradesh domicile",
+    "For government/self-financed government institutions, the official record states no income limit for ST students",
+    "For eligible non-government non-professional courses, parents' annual income up to INR 6 lakh is stated"
+  ],
+  "benefits": [
+    "Eligible non-refundable fees and maintenance allowance according to eligibility",
+    "For eligible students in specified private institutions, payment of half of prescribed non-refundable mandatory fees is stated"
+  ],
+  "documents_required": [
+    "Not enumerated in the retrieved official record"
+  ],
+  "application_process": [
+    "Classes 11-12: apply through the Samagra portal",
+    "College-level: apply through the MPTAAS portal"
+  ],
+  "important_sections_or_clauses": [
+    "Payment is described as DBT/direct transfer to an Aadhaar-linked NPCI-active bank account for college students."
+  ],
+  "official_links": [
+    "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=26"
+  ],
+  "helplines": [],
+  "source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=26",
+  "source_type": "Official Government of Madhya Pradesh CM Helpline Scheme Dashboard",
+  "last_verified_date": "2026-09-14"
+}

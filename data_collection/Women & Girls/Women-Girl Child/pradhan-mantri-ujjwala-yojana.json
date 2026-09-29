@@ -1,0 +1,23 @@
+{
+  "name": "Pradhan Mantri Ujjwala Yojana",
+  "category": "Women",
+  "department": "Ministry of Petroleum and Natural Gas",
+  "target_group": [
+    "Adult women from eligible poor/household categories as per current PMUY rules"
+  ],
+  "eligibility": [
+    "Applicant must satisfy the current PMUY household and eligibility conditions.",
+    "Connection is issued in the eligible woman's name."
+  ],
+  "benefits": "Deposit-free LPG connection support and related benefits as prescribed under the current scheme.",
+  "documents": [
+    "Aadhaar/identity proof",
+    "Address/residence proof",
+    "Household/ration-related documents as applicable",
+    "Bank details"
+  ],
+  "application_process": "Apply through an LPG distributor or the official PMUY process.",
+  "official_link": "https://www.pmuy.gov.in/",
+  "source": "Ministry of Petroleum and Natural Gas / Government of India",
+  "last_verified_date": "2026-09-13"
+}

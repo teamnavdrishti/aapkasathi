@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)",
+  "category": "Housing/Welfare",
+  "ministry": "Ministry of Rural Development",
+  "target_beneficiaries": "Eligible rural houseless households and households living in kutcha or dilapidated houses",
+  "objective": "To provide pucca houses with basic amenities to eligible rural households",
+  "house_size": "Minimum 25 sq. metres including hygienic cooking space",
+  "financial_assistance": {
+    "plain_areas": "Rs. 1.20 lakh",
+    "north_eastern_and_hill_states": "Rs. 1.30 lakh"
+  },
+  "additional_support": [
+    "MGNREGA wage support",
+    "Toilet assistance through convergence with SBM-G/MGNREGA or other sources",
+    "Convergence for drinking water, electricity and LPG connections"
+  ],
+  "beneficiary_selection": "Eligible households are identified using prescribed deprivation/exclusion criteria and official beneficiary lists.",
+  "monitoring": "Implemented and monitored through e-Governance systems including AwaasSoft and Awaas App.",
+  "payment_mode": "Direct Benefit Transfer (DBT) to the beneficiary's registered bank/post-office account",
+  "implementation_period": "FY 2024-25 to 2028-29",
+  "source": "Official PMAY-G, Department of Rural Development, Government of India"
+}

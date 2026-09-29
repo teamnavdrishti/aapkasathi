@@ -1,0 +1,33 @@
+{
+  "department_name": "Urban Development and Housing Department",
+  "department_name_hindi": "नगरीय विकास एवं आवास विभाग",
+  "category": "Urban Planning & Civic Infrastructure",
+  "state": "Madhya Pradesh",
+  "headquarters": "Palika Bhawan, Shivaji Nagar, Bhopal, Madhya Pradesh - 462016",
+  "official_website": "https://mpurban.gov.in",
+  "description": "The administrative organ in charge of urban planning, municipal governance, affordable housing schemes, civic amenities, and smart city developments across urban local bodies.",
+  "sub_divisions": [
+    "Directorate of Urban Administration and Development (UAD)",
+    "Madhya Pradesh Urban Development Company Limited (MPUDC)",
+    "Town and Country Planning Department (TNCP)",
+    "State Smart City Mission Cell"
+  ],
+  "primary_functions": [
+    "Administration of Municipal Corporations, Municipal Councils, and Nagar Parishads",
+    "Implementation of Pradhan Mantri Awas Yojana (Urban) and AMRUT schemes",
+    "Urban sanitation, solid waste management, and drinking water supply planning",
+    "Zoning, master plan formulation, and building construction approvals"
+  ],
+  "key_services_offered": [
+    "Property tax assessment, billing, and online payment via e-NagarPalika",
+    "Water supply connection applications and trade license renewals",
+    "Issuance of birth, death, and marriage registration certificates in urban areas",
+    "Online building plan approval system (ABPAS) clearance"
+  ],
+  "associated_helplines": [
+    "18002335522 (e-NagarPalika Citizen Support)",
+    "181 (Urban Civic Services Grievances)"
+  ],
+  "official_source": "https://mpurban.gov.in",
+  "last_verified": "2026-09-15"
+}

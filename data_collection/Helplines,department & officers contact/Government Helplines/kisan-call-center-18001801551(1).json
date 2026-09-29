@@ -1,0 +1,22 @@
+{
+  "name": "Kisan Call Center MP",
+  "name_hindi": "किसान कॉल सेंटर",
+  "category": "Agricultural Support & Advisory",
+  "helpline_number": "18001801551",
+  "toll_free": true,
+  "availability": "6:00 AM to 10:00 PM",
+  "state": "Madhya Pradesh",
+  "department": "Farmer Welfare and Agriculture Development Department",
+  "beneficiary": "Farmers, agricultural workers, and rural citizens of Madhya Pradesh",
+  "benefits": "Expert agricultural advice on crops, soil health, government subsidies, weather updates, and market rates.",
+  "eligibility": [
+    "Farmers and citizens seeking agricultural guidance in Madhya Pradesh"
+  ],
+  "required_documents": [
+    "Khasra/Land details (optional for specific inquiry)"
+  ],
+  "application_process": "Dial 1800-180-1551 to speak with agricultural experts in local language.",
+  "application_mode": "Phone Call",
+  "official_source": "https://mpkrishi.mp.gov.in",
+  "last_verified": "2026-09-14"
+}

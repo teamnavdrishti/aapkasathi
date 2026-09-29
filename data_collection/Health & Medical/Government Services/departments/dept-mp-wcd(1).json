@@ -1,0 +1,33 @@
+{
+  "id": "DEPT-MP-WCD",
+  "category": "State Department",
+  "title": "Department of Women and Child Development, MP",
+  "department": "Women and Child Development Department",
+  "eligibility": [
+    "Women, adolescent girls, and children aged 0-6 years in MP"
+  ],
+  "benefits": [
+    "Implements Ladli Behna, Ladli Laxmi, Anganwadi services, and nutrition missions"
+  ],
+  "documents_required": [
+    "Aadhaar Card",
+    "Samagra ID"
+  ],
+  "application_process": [
+    "Enroll at local Anganwadi Center or MPOnline portal"
+  ],
+  "important_sections_or_clauses": [
+    "Protection of Women from Domestic Violence Act, 2005"
+  ],
+  "official_links": [
+    "https://mpwcdmis.gov.in",
+    "https://ladlibehna.mp.gov.in"
+  ],
+  "helplines": [
+    "181",
+    "1091 (Women Helpline)",
+    "1098 (Childline)"
+  ],
+  "source_url": "https://mpwcdmis.gov.in",
+  "last_verified_date": "2026-09-13"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "HELP-MP-112",
+  "category": "Integrated Emergency Response",
+  "title": "Emergency Response Support System (ERSS) 112",
+  "helpline_number": "112",
+  "department": "Home Department, MP Police",
+  "eligibility": [
+    "All citizens needing immediate Police, Fire, or Ambulance services"
+  ],
+  "benefits": [
+    "Single unified emergency number across MP",
+    "GPS location tracking of caller for quick response vehicle (FRV) dispatch"
+  ],
+  "documents_required": [
+    "None"
+  ],
+  "application_process": [
+    "Step 1: Dial 112 or trigger emergency SOS via 112 India App",
+    "Step 2: Emergency Response Centre (ERC) dispatches nearest First Response Vehicle"
+  ],
+  "important_sections_or_clauses": [
+    "MP Police Act, 2007"
+  ],
+  "official_links": [
+    "https://erss.in",
+    "https://mppolice.gov.in"
+  ],
+  "helplines": [
+    "112"
+  ],
+  "source_url": "https://mppolice.gov.in",
+  "last_verified_date": "2026-09-14"
+}

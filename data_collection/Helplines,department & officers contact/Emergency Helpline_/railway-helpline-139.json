@@ -1,0 +1,28 @@
+{
+  "name": "Rail Madad Integrated Helpline (139)",
+  "name_hindi": "रेल मदद एकीकृत हेल्पलाइन (139)",
+  "category": "Railway Emergency & Grievance Redressal",
+  "helpline_number": "139",
+  "toll_free": true,
+  "availability": "24x7",
+  "state": "National",
+  "department": "Ministry of Railways / Indian Railways",
+  "beneficiary": "Train passengers and railway station visitors across India",
+  "benefits": "Unified assistance for emergency security (RPF/GRP), medical aid, cleanliness, and travel enquiries",
+  "eligibility": [
+    "Any passenger travelling on or visiting Indian Railways network"
+  ],
+  "required_documents": [
+    "PNR Number or Train/Coach details (for onboard grievances)"
+  ],
+  "application_process": "Dial 139, send SMS to 139, or submit a request via RailMadad portal/app.",
+  "application_mode": [
+    "Phone Call",
+    "SMS",
+    "Mobile App",
+    "Web Portal"
+  ],
+  "application_fee": 0,
+  "official_source": "https://railmadad.indianrailways.gov.in",
+  "last_verified": "2026-09-14"
+}

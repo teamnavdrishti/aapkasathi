@@ -1,0 +1,32 @@
+{
+  "id": "DEPT-MP-HEALTH",
+  "category": "State Department",
+  "title": "Department of Public Health and Family Welfare, MP",
+  "department": "Department of Public Health and Family Welfare",
+  "eligibility": [
+    "All citizens requiring public health services in MP"
+  ],
+  "benefits": [
+    "Administrative oversight of district hospitals, CHCs, PHCs, Ayushman Bharat, and maternal health schemes"
+  ],
+  "documents_required": [
+    "Not Applicable"
+  ],
+  "application_process": [
+    "Access services via local government hospitals or health portals"
+  ],
+  "important_sections_or_clauses": [
+    "National Health Mission Rules"
+  ],
+  "official_links": [
+    "https://health.mp.gov.in",
+    "https://nhmmp.gov.in"
+  ],
+  "helplines": [
+    "108 (Ambulance)",
+    "104 (Health Information)",
+    "1800-233-2085"
+  ],
+  "source_url": "https://health.mp.gov.in",
+  "last_verified_date": "2026-09-13"
+}

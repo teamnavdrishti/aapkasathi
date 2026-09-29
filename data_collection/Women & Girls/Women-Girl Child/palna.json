@@ -1,0 +1,21 @@
+{
+  "name": "Palna",
+  "category": "Women",
+  "department": "Ministry of Women and Child Development",
+  "target_group": [
+    "Working women and families needing crèche services for young children"
+  ],
+  "eligibility": [
+    "Eligibility and admission depend on the Palna/Anganwadi crèche guidelines and local availability."
+  ],
+  "benefits": "Crèche/day-care services, care and support for young children to help women participate in work.",
+  "documents": [
+    "Child identity/birth details",
+    "Parent/guardian identity details",
+    "Other documents required by the centre"
+  ],
+  "application_process": "Contact the relevant Anganwadi/crèche service or implementing authority.",
+  "official_link": "https://missionshakti.wcd.gov.in/",
+  "source": "Ministry of Women and Child Development / Government of India",
+  "last_verified_date": "2026-09-13"
+}

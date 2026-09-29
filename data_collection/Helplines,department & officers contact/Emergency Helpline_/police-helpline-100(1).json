@@ -1,0 +1,19 @@
+{
+    "name": "MP Police Emergency Control Room (Dial 100)",
+    "name_hindi": "मध्य प्रदेश पुलिस आपातकालीन नियंत्रण कक्ष (डायल 100)",
+    "category": "Law Enforcement & Police",
+    "helpline_number": "100",
+    "toll_free": true,
+    "availability": "24x7",
+    "state": "Madhya Pradesh",
+    "department": "Madhya Pradesh Police",
+    "beneficiary": "Victims and witnesses of crimes, public disturbances, and accidents",
+    "benefits": "Immediate police deployment to maintain law and order and assist citizens.",
+    "eligibility": ["Any person in need of urgent police intervention"],
+    "required_documents": ["None"],
+    "application_process": "Dial 100 from any mobile or landline network.",
+    "application_mode": "Phone Call",
+    "application_fee": "0",
+    "official_source": "https://mppolice.gov.in",
+    "last_verified": "2026-09-13"
+ }

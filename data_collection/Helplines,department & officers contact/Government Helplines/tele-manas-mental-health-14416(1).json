@@ -1,0 +1,22 @@
+{
+  "name": "Tele-MANAS Mental Health Helpline 14416",
+  "name_hindi": "टेली-मानस मानसिक स्वास्थ्य हेल्पलाइन 14416",
+  "category": "Health & Psychological Support",
+  "helpline_number": "14416",
+  "toll_free": true,
+  "availability": "24x7",
+  "state": "Madhya Pradesh",
+  "department": "Public Health and Family Welfare Department, Government of Madhya Pradesh",
+  "beneficiary": "Students, youth, and citizens seeking psychological support or mental well-being counseling",
+  "benefits": "Free, confidential counseling services and tele-consultation with mental health experts.",
+  "eligibility": [
+    "Any individual seeking mental health guidance or distress support"
+  ],
+  "required_documents": [
+    "None required"
+  ],
+  "application_process": "Dial 14416 or 1800-891-4416 to connect with a trained mental health counselor.",
+  "application_mode": "Phone Call",
+  "official_source": "https://health.mp.gov.in",
+  "last_verified": "2026-09-14"
+}

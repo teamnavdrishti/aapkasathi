@@ -1,0 +1,31 @@
+{
+  "id": "DEPT-MP-REVENUE",
+  "category": "State Department",
+  "title": "Revenue Department, Madhya Pradesh",
+  "department": "Revenue Department MP",
+  "eligibility": [
+    "All citizens seeking land records, domicile/caste certificates, and relief management"
+  ],
+  "benefits": [
+    "Issuance of official state certificates, land record maintenance, and natural disaster relief"
+  ],
+  "documents_required": [
+    "Identity & Residence Certificates"
+  ],
+  "application_process": [
+    "Apply online via MP e-District or RCMS portal"
+  ],
+  "important_sections_or_clauses": [
+    "MP Land Revenue Code, 1959"
+  ],
+  "official_links": [
+    "https://revenue.mp.gov.in",
+    "https://rcms.mp.gov.in",
+    "https://mpbhulekh.gov.in"
+  ],
+  "helplines": [
+    "181"
+  ],
+  "source_url": "https://revenue.mp.gov.in",
+  "last_verified_date": "2026-09-13"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "HELP-MP-102",
+  "category": "Maternal & Child Health Emergency",
+  "title": "Janani Express Ambulance 102 MP",
+  "helpline_number": "102",
+  "department": "National Health Mission, MP",
+  "eligibility": [
+    "Pregnant women, post-partum mothers, and sick infants (0-1 year) in MP"
+  ],
+  "benefits": [
+    "Free transport from home to delivery center/hospital",
+    "Free drop-back transport from health facility to home post-delivery"
+  ],
+  "documents_required": [
+    "MP MCH Card / Janani Suraksha Identity Card"
+  ],
+  "application_process": [
+    "Step 1: Call 102 when labor pain begins or health emergency occurs",
+    "Step 2: Provide address and target delivery center details"
+  ],
+  "important_sections_or_clauses": [
+    "Janani Suraksha Yojana & Janani Shishu Suraksha Karyakram Guidelines"
+  ],
+  "official_links": [
+    "https://nhmmp.gov.in"
+  ],
+  "helplines": [
+    "102"
+  ],
+  "source_url": "https://nhmmp.gov.in",
+  "last_verified_date": "2026-09-14"
+}

@@ -1,0 +1,19 @@
+{
+  "scheme_id": "MP-AGR-001",
+  "scheme_name": "मुख्यमंत्री किसान कल्याण योजना",
+  "scheme_name_english": "Mukhyamantri Kisan Kalyan Yojana",
+  "category": "Agriculture / Farmer Welfare",
+  "state": "Madhya Pradesh",
+  "department": "Revenue Department, Government of Madhya Pradesh",
+  "scheme_type": "State Sponsored",
+  "beneficiary": "Farmers",
+  "benefit": "Financial assistance under the state farmer-welfare scheme; the official dashboard describes its objective as increasing farmers' income, promoting advanced agricultural technology and making farmers self-reliant.",
+  "eligibility": "Eligibility should be checked according to the current MP Government scheme rules.",
+  "required_documents": "Not specified on the official scheme page retrieved.",
+  "application_process": "Check the current MP Government/CM Helpline scheme instructions for the applicable registration or verification process.",
+  "application_fee": "Not specified on the retrieved official page.",
+  "official_source": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=606",
+  "source_type": "MP Government CM Helpline Scheme Dashboard",
+  "last_verified": "2026-09-13",
+  "verification_note": "Official MP Government scheme dashboard was checked."
+}

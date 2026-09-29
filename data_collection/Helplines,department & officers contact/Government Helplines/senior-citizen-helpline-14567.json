@@ -1,0 +1,22 @@
+{
+  "name": "Elderline - Senior Citizen Helpline 14567",
+  "name_hindi": "एल्डरलाइन - वरिष्ठ नागरिक हेल्पलाइन 14567",
+  "category": "Social Security & Elderly Care",
+  "helpline_number": "14567",
+  "toll_free": true,
+  "availability": "8:00 AM to 8:00 PM",
+  "state": "Madhya Pradesh",
+  "department": "Social Justice and Disabled Welfare Department, Government of Madhya Pradesh",
+  "beneficiary": "Senior citizens aged 60 years and above in Madhya Pradesh",
+  "benefits": "Information on old-age homes, pension schemes, legal guidance, and elder abuse intervention.",
+  "eligibility": [
+    "Senior citizens aged 60+ or individuals calling on their behalf"
+  ],
+  "required_documents": [
+    "Age Proof / Aadhaar Card (if applying for pension support)"
+  ],
+  "application_process": "Dial 14567 to request information, guidance, or field intervention.",
+  "application_mode": "Phone Call",
+  "official_source": "https://socialjustice.mp.gov.in",
+  "last_verified": "2026-09-14"
+}

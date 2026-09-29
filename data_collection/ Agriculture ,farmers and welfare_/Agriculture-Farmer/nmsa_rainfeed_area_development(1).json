@@ -1,0 +1,22 @@
+{
+  "scheme_id": "MP-AGR-010",
+  "scheme_name": "नेशनल मिशन फॉर सस्टेनेबल एग्रीकल्चर अंतर्गत रेनफेड एरिया डेवलपमेंट",
+  "scheme_name_english": "National Mission for Sustainable Agriculture - Rainfed Area Development",
+  "category": "Agriculture / Sustainable and Integrated Farming",
+  "state": "Madhya Pradesh",
+  "department": "Kisan Kalyan and Agriculture Development Department, Government of Madhya Pradesh",
+  "beneficiary": "Farmers",
+  "benefits": "Supports integrated farming systems to increase farmers' income and reduce risks from drought, floods and adverse weather. The official MP scheme page states that assistance of up to ₹1,00,000 may be provided to one family for integrated farming on up to 2 hectares.",
+  "eligibility": "Farmers of all categories can apply according to the official scheme information.",
+  "required_documents": [
+    "Simple application form",
+    "Nationalised bank account number",
+    "IFSC code"
+  ],
+  "application_process": "Beneficiaries are selected according to block targets through the Rural Agricultural Extension Officer and the Agriculture Department. Selection requires approval through the prescribed process.",
+  "application_mode": "Agriculture Department / Online DBT Support",
+  "official_application_link": "https://dbt.mpdage.org",
+  "official_source": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=842&pointvalue=1&status=BySchemeFor",
+  "source_type": "MP Government CM Helpline Scheme Dashboard",
+  "last_verified": "2026-09-13"
+}

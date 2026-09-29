@@ -1,0 +1,66 @@
+{
+  "scheme_name": "Pradhan Mantri Awas Yojana - Urban 2.0 (PMAY-U 2.0)",
+  "category": "Housing/Welfare",
+  "ministry": "Ministry of Housing and Urban Affairs",
+  "target_area": "Urban",
+  "implementation_period": "2024-2029",
+  "objective": "To provide affordable pucca housing to eligible urban families under the vision of Housing for All",
+  "target_beneficiaries": "Eligible EWS, LIG and MIG families living in urban areas who do not own a pucca house anywhere in India",
+  "target": "1 crore eligible urban families",
+  "maximum_government_assistance": "Up to Rs. 2.50 lakh per unit",
+  "verticals": [
+    {
+      "name": "Beneficiary Led Construction (BLC)",
+      "purpose": "Construction of a new pucca house on the beneficiary's available land",
+      "eligible_category": "EWS",
+      "annual_income_limit": "Up to Rs. 3 lakh",
+      "house_area": "30-45 sq. metres carpet area"
+    },
+    {
+      "name": "Affordable Housing in Partnership (AHP)",
+      "purpose": "Affordable pucca houses constructed by public/private agencies for eligible beneficiaries",
+      "eligible_category": "EWS",
+      "house_area": "30-45 sq. metres carpet area"
+    },
+    {
+      "name": "Affordable Rental Housing (ARH)",
+      "purpose": "Affordable rental housing for eligible urban residents",
+      "target_groups": [
+        "EWS/LIG beneficiaries",
+        "Urban migrants",
+        "Homeless persons",
+        "Industrial workers",
+        "Working women",
+        "Construction workers",
+        "Urban poor"
+      ]
+    },
+    {
+      "name": "Interest Subsidy Scheme (ISS)",
+      "purpose": "Interest subsidy on eligible home loans for purchase, repurchase or construction of houses",
+      "income_limits": {
+        "EWS": "Up to Rs. 3 lakh per year",
+        "LIG": "Up to Rs. 6 lakh per year",
+        "MIG": "Up to Rs. 9 lakh per year"
+      },
+      "maximum_interest_subsidy": "Up to Rs. 1.80 lakh"
+    }
+  ],
+  "special_focus_groups": [
+    "Widows",
+    "Single women",
+    "Persons with Disabilities",
+    "Senior Citizens",
+    "Transgender persons",
+    "Scheduled Castes",
+    "Scheduled Tribes",
+    "Minorities",
+    "Safai Karmi",
+    "Street Vendors",
+    "Artisans",
+    "Anganwadi Workers",
+    "Building and Construction Workers",
+    "Slum/Chawl residents"
+  ],
+  "source": "Official PMAY-U 2.0, Ministry of Housing and Urban Affairs, Government of India"
+}
